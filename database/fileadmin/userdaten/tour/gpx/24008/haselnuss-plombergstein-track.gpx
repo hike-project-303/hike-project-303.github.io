@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2022-10-16 10:24</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2022-10-16T08:24:21Z</time>
+        <bounds minlat="47.7722486" minlon="13.3519969" maxlat="47.7805895" maxlon="13.3620829"/>
+    </metadata>
+    <trk>
+        <name>2022-10-16 10:24</name>
+        <desc>&lt;p&gt;Startzeit: 10:24 16.10.2022&lt;br/&gt;Zielzeit: 15:16 16.10.2022&lt;br/&gt;Strecke: 4,
+5 km (04:52)&lt;br/&gt;Bewegungszeit: 01:07&lt;br/&gt;Ø-Geschwindigkeit: 0,
+92 km/h&lt;br/&gt;Netto-Geschwindigkeit: 3,
+97 km/h&lt;br/&gt;Max. Geschwindigkeit: 8,
+41 km/h&lt;br/&gt;Minimale Höhe: 626 m&lt;br/&gt;Maximale Höhe: 827 m&lt;br/&gt;Steig-Geschw.: 77,
+9 m/h&lt;br/&gt;Sink-Geschw.: -281,
+5 m/h&lt;br/&gt;Aufstieg: 294 m&lt;br/&gt;Abstieg: -308 m&lt;br/&gt;Steigzeit: 03:46&lt;br/&gt;Sinkzeit: 01:05&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Bergsteigen</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">7</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.7722486" lon="13.3519969">
+                <ele>673.4</ele>
+                <time>2022-10-16T08:24:22.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="47.7722925" lon="13.3522715">
+                <ele>638.1</ele>
+                <time>2022-10-16T08:24:24.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="47.7722808" lon="13.3525427">
+                <ele>635.6</ele>
+                <time>2022-10-16T08:26:10.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="47.7723142" lon="13.3528129">
+                <ele>638.4</ele>
+                <time>2022-10-16T08:26:24.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="47.7724012" lon="13.3530848">
+                <ele>637.6</ele>
+                <time>2022-10-16T08:26:38.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="47.7724545" lon="13.353345">
+                <ele>636.3</ele>
+                <time>2022-10-16T08:26:52.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="47.7725789" lon="13.353539">
+                <ele>633.9</ele>
+                <time>2022-10-16T08:27:06.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="47.7727602" lon="13.3535712">
+                <ele>632.9</ele>
+                <time>2022-10-16T08:27:18.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="47.7728863" lon="13.3537747">
+                <ele>630.2</ele>
+                <time>2022-10-16T08:27:32.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="47.7729964" lon="13.3540322">
+                <ele>629.0</ele>
+                <time>2022-10-16T08:27:48.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="47.7731181" lon="13.3542657">
+                <ele>628.1</ele>
+                <time>2022-10-16T08:28:02.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="47.7732542" lon="13.3544677">
+                <ele>626.8</ele>
+                <time>2022-10-16T08:28:16.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="47.7734142" lon="13.3546458">
+                <ele>628.1</ele>
+                <time>2022-10-16T08:28:32.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="47.7735761" lon="13.3548107">
+                <ele>629.8</ele>
+                <time>2022-10-16T08:28:48.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="47.7737232" lon="13.354981">
+                <ele>630.5</ele>
+                <time>2022-10-16T08:29:02.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="47.7738827" lon="13.3551644">
+                <ele>631.6</ele>
+                <time>2022-10-16T08:29:18.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="47.774019" lon="13.3553421">
+                <ele>633.8</ele>
+                <time>2022-10-16T08:29:32.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="47.7741394" lon="13.3555601">
+                <ele>635.0</ele>
+                <time>2022-10-16T08:29:46.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="47.7743087" lon="13.355725">
+                <ele>637.3</ele>
+                <time>2022-10-16T08:30:02.000Z</time>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="47.7744545" lon="13.3559164">
+                <ele>639.1</ele>
+                <time>2022-10-16T08:30:18.000Z</time>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="47.7745851" lon="13.3561267">
+                <ele>640.3</ele>
+                <time>2022-10-16T08:30:34.000Z</time>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="47.7747599" lon="13.3562772">
+                <ele>641.9</ele>
+                <time>2022-10-16T08:30:50.000Z</time>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="47.7749059" lon="13.3564676">
+                <ele>643.3</ele>
+                <time>2022-10-16T08:31:07.000Z</time>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="47.7750524" lon="13.3566455">
+                <ele>644.6</ele>
+                <time>2022-10-16T08:31:21.000Z</time>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="47.775198" lon="13.3568588">
+                <ele>645.9</ele>
+                <time>2022-10-16T08:31:37.000Z</time>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="47.7753358" lon="13.3570539">
+                <ele>647.7</ele>
+                <time>2022-10-16T08:31:51.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+            <trkpt lat="47.7755114" lon="13.3571827">
+                <ele>649.3</ele>
+                <time>2022-10-16T08:32:07.000Z</time>
+                <name>Position 27</name>
+            </trkpt>
+            <trkpt lat="47.7756995" lon="13.3572758">
+                <ele>651.2</ele>
+                <time>2022-10-16T08:32:23.000Z</time>
+                <name>Position 28</name>
+            </trkpt>
+            <trkpt lat="47.7758843" lon="13.3572697">
+                <ele>653.6</ele>
+                <time>2022-10-16T08:32:41.000Z</time>
+                <name>Position 29</name>
+            </trkpt>
+            <trkpt lat="47.7760668" lon="13.3572909">
+                <ele>656.2</ele>
+                <time>2022-10-16T08:32:55.000Z</time>
+                <name>Position 30</name>
+            </trkpt>
+            <trkpt lat="47.7762402" lon="13.3572126">
+                <ele>659.6</ele>
+                <time>2022-10-16T08:33:09.000Z</time>
+                <name>Position 31</name>
+            </trkpt>
+            <trkpt lat="47.7764384" lon="13.3571429">
+                <ele>661.7</ele>
+                <time>2022-10-16T08:33:31.000Z</time>
+                <name>Position 32</name>
+            </trkpt>
+            <trkpt lat="47.7766134" lon="13.356961">
+                <ele>662.7</ele>
+                <time>2022-10-16T08:33:43.000Z</time>
+                <name>Position 33</name>
+            </trkpt>
+            <trkpt lat="47.7767678" lon="13.3567868">
+                <ele>663.0</ele>
+                <time>2022-10-16T08:33:57.000Z</time>
+                <name>Position 34</name>
+            </trkpt>
+            <trkpt lat="47.7769237" lon="13.3566184">
+                <ele>664.8</ele>
+                <time>2022-10-16T08:34:13.000Z</time>
+                <name>Position 35</name>
+            </trkpt>
+            <trkpt lat="47.7770905" lon="13.3564859">
+                <ele>665.2</ele>
+                <time>2022-10-16T08:34:31.000Z</time>
+                <name>Position 36</name>
+            </trkpt>
+            <trkpt lat="47.7772754" lon="13.3565064">
+                <ele>664.4</ele>
+                <time>2022-10-16T08:34:47.000Z</time>
+                <name>Position 37</name>
+            </trkpt>
+            <trkpt lat="47.777462" lon="13.3565744">
+                <ele>663.8</ele>
+                <time>2022-10-16T08:35:01.000Z</time>
+                <name>Position 38</name>
+            </trkpt>
+            <trkpt lat="47.7776772" lon="13.3565644">
+                <ele>663.4</ele>
+                <time>2022-10-16T08:35:19.000Z</time>
+                <name>Position 39</name>
+            </trkpt>
+            <trkpt lat="47.77755" lon="13.3567759">
+                <ele>658.2</ele>
+                <time>2022-10-16T08:36:03.000Z</time>
+                <name>Position 40</name>
+            </trkpt>
+            <trkpt lat="47.7774082" lon="13.3569423">
+                <ele>658.1</ele>
+                <time>2022-10-16T08:36:21.000Z</time>
+                <name>Position 41</name>
+            </trkpt>
+            <trkpt lat="47.7772374" lon="13.3570285">
+                <ele>654.3</ele>
+                <time>2022-10-16T08:36:35.000Z</time>
+                <name>Position 42</name>
+            </trkpt>
+            <trkpt lat="47.7771025" lon="13.3572393">
+                <ele>652.7</ele>
+                <time>2022-10-16T08:36:51.000Z</time>
+                <name>Position 43</name>
+            </trkpt>
+            <trkpt lat="47.7769749" lon="13.3574311">
+                <ele>649.7</ele>
+                <time>2022-10-16T08:37:07.000Z</time>
+                <name>Position 44</name>
+            </trkpt>
+            <trkpt lat="47.7768448" lon="13.3576629">
+                <ele>647.4</ele>
+                <time>2022-10-16T08:37:23.000Z</time>
+                <name>Position 45</name>
+            </trkpt>
+            <trkpt lat="47.7767129" lon="13.3578864">
+                <ele>645.6</ele>
+                <time>2022-10-16T08:37:39.000Z</time>
+                <name>Position 46</name>
+            </trkpt>
+            <trkpt lat="47.7765997" lon="13.3581306">
+                <ele>644.1</ele>
+                <time>2022-10-16T08:37:55.000Z</time>
+                <name>Position 47</name>
+            </trkpt>
+            <trkpt lat="47.7765093" lon="13.3583747">
+                <ele>643.4</ele>
+                <time>2022-10-16T08:38:13.000Z</time>
+                <name>Position 48</name>
+            </trkpt>
+            <trkpt lat="47.7764316" lon="13.3586277">
+                <ele>642.9</ele>
+                <time>2022-10-16T08:38:33.000Z</time>
+                <name>Position 49</name>
+            </trkpt>
+            <trkpt lat="47.7764243" lon="13.3589303">
+                <ele>642.6</ele>
+                <time>2022-10-16T08:38:57.000Z</time>
+                <name>Position 50</name>
+            </trkpt>
+            <trkpt lat="47.7763874" lon="13.3592136">
+                <ele>641.3</ele>
+                <time>2022-10-16T08:39:25.000Z</time>
+                <name>Position 51</name>
+            </trkpt>
+            <trkpt lat="47.7763236" lon="13.3594653">
+                <ele>639.3</ele>
+                <time>2022-10-16T08:39:45.000Z</time>
+                <name>Position 52</name>
+            </trkpt>
+            <trkpt lat="47.7763818" lon="13.3597191">
+                <ele>640.9</ele>
+                <time>2022-10-16T08:40:11.000Z</time>
+                <name>Position 53</name>
+            </trkpt>
+            <trkpt lat="47.7765265" lon="13.3598782">
+                <ele>644.8</ele>
+                <time>2022-10-16T08:40:59.000Z</time>
+                <name>Position 54</name>
+            </trkpt>
+            <trkpt lat="47.776598" lon="13.3596278">
+                <ele>653.0</ele>
+                <time>2022-10-16T08:43:44.000Z</time>
+                <name>Position 55</name>
+            </trkpt>
+            <trkpt lat="47.776696" lon="13.3598553">
+                <ele>680.6</ele>
+                <time>2022-10-16T09:22:24.000Z</time>
+                <name>Position 56</name>
+            </trkpt>
+            <trkpt lat="47.7768766" lon="13.3598734">
+                <ele>716.2</ele>
+                <time>2022-10-16T10:02:40.000Z</time>
+                <name>Position 57</name>
+            </trkpt>
+            <trkpt lat="47.7770501" lon="13.3599451">
+                <ele>749.2</ele>
+                <time>2022-10-16T10:35:21.000Z</time>
+                <name>Position 58</name>
+            </trkpt>
+            <trkpt lat="47.7772222" lon="13.3600303">
+                <ele>773.7</ele>
+                <time>2022-10-16T11:02:02.000Z</time>
+                <name>Position 59</name>
+            </trkpt>
+            <trkpt lat="47.7774031" lon="13.3600368">
+                <ele>797.5</ele>
+                <time>2022-10-16T11:08:11.000Z</time>
+                <name>Position 60</name>
+            </trkpt>
+            <trkpt lat="47.7775835" lon="13.3600723">
+                <ele>817.9</ele>
+                <time>2022-10-16T11:15:45.000Z</time>
+                <name>Position 61</name>
+            </trkpt>
+            <trkpt lat="47.7777159" lon="13.3598872">
+                <ele>827.4</ele>
+                <time>2022-10-16T11:34:17.000Z</time>
+                <name>Position 62</name>
+            </trkpt>
+            <trkpt lat="47.7779038" lon="13.3598393">
+                <ele>827.1</ele>
+                <time>2022-10-16T11:36:37.000Z</time>
+                <name>Position 63</name>
+            </trkpt>
+            <trkpt lat="47.7780819" lon="13.3599011">
+                <ele>822.0</ele>
+                <time>2022-10-16T11:37:33.000Z</time>
+                <name>Position 64</name>
+            </trkpt>
+            <trkpt lat="47.7782675" lon="13.3599179">
+                <ele>818.0</ele>
+                <time>2022-10-16T11:37:53.000Z</time>
+                <name>Position 65</name>
+            </trkpt>
+            <trkpt lat="47.7784317" lon="13.3598025">
+                <ele>813.3</ele>
+                <time>2022-10-16T11:38:15.000Z</time>
+                <name>Position 66</name>
+            </trkpt>
+            <trkpt lat="47.7786151" lon="13.3598335">
+                <ele>801.9</ele>
+                <time>2022-10-16T11:39:23.000Z</time>
+                <name>Position 67</name>
+            </trkpt>
+            <trkpt lat="47.778713" lon="13.3600704">
+                <ele>795.3</ele>
+                <time>2022-10-16T11:40:03.000Z</time>
+                <name>Position 68</name>
+            </trkpt>
+            <trkpt lat="47.7787296" lon="13.3603484">
+                <ele>787.9</ele>
+                <time>2022-10-16T11:40:43.000Z</time>
+                <name>Position 69</name>
+            </trkpt>
+            <trkpt lat="47.7788754" lon="13.3605175">
+                <ele>780.6</ele>
+                <time>2022-10-16T11:41:22.000Z</time>
+                <name>Position 70</name>
+            </trkpt>
+            <trkpt lat="47.7790205" lon="13.3607336">
+                <ele>771.9</ele>
+                <time>2022-10-16T11:42:14.000Z</time>
+                <name>Position 71</name>
+            </trkpt>
+            <trkpt lat="47.7792053" lon="13.3607831">
+                <ele>764.7</ele>
+                <time>2022-10-16T11:42:32.000Z</time>
+                <name>Position 72</name>
+            </trkpt>
+            <trkpt lat="47.7793876" lon="13.3607256">
+                <ele>763.3</ele>
+                <time>2022-10-16T11:42:52.000Z</time>
+                <name>Position 73</name>
+            </trkpt>
+            <trkpt lat="47.7795813" lon="13.3607185">
+                <ele>760.3</ele>
+                <time>2022-10-16T11:43:20.000Z</time>
+                <name>Position 74</name>
+            </trkpt>
+            <trkpt lat="47.7797535" lon="13.3606046">
+                <ele>756.1</ele>
+                <time>2022-10-16T11:44:18.000Z</time>
+                <name>Position 75</name>
+            </trkpt>
+            <trkpt lat="47.7798975" lon="13.3605177">
+                <ele>763.2</ele>
+                <time>2022-10-16T11:56:59.000Z</time>
+                <name>Position 76</name>
+            </trkpt>
+            <trkpt lat="47.7799286" lon="13.3607918">
+                <ele>749.2</ele>
+                <time>2022-10-16T11:58:23.000Z</time>
+                <name>Position 77</name>
+            </trkpt>
+            <trkpt lat="47.779991" lon="13.3610537">
+                <ele>744.0</ele>
+                <time>2022-10-16T11:58:47.000Z</time>
+                <name>Position 78</name>
+            </trkpt>
+            <trkpt lat="47.7800958" lon="13.3613061">
+                <ele>742.0</ele>
+                <time>2022-10-16T11:59:03.000Z</time>
+                <name>Position 79</name>
+            </trkpt>
+            <trkpt lat="47.7800291" lon="13.3615652">
+                <ele>737.0</ele>
+                <time>2022-10-16T11:59:25.000Z</time>
+                <name>Position 80</name>
+            </trkpt>
+            <trkpt lat="47.7798309" lon="13.3614924">
+                <ele>731.5</ele>
+                <time>2022-10-16T11:59:51.000Z</time>
+                <name>Position 81</name>
+            </trkpt>
+            <trkpt lat="47.7796695" lon="13.3613644">
+                <ele>729.1</ele>
+                <time>2022-10-16T12:00:09.000Z</time>
+                <name>Position 82</name>
+            </trkpt>
+            <trkpt lat="47.7795197" lon="13.3612029">
+                <ele>726.0</ele>
+                <time>2022-10-16T12:00:27.000Z</time>
+                <name>Position 83</name>
+            </trkpt>
+            <trkpt lat="47.7793508" lon="13.3610845">
+                <ele>725.7</ele>
+                <time>2022-10-16T12:00:45.000Z</time>
+                <name>Position 84</name>
+            </trkpt>
+            <trkpt lat="47.7791711" lon="13.3610074">
+                <ele>722.0</ele>
+                <time>2022-10-16T12:01:13.000Z</time>
+                <name>Position 85</name>
+            </trkpt>
+            <trkpt lat="47.7789829" lon="13.3610421">
+                <ele>712.0</ele>
+                <time>2022-10-16T12:01:53.000Z</time>
+                <name>Position 86</name>
+            </trkpt>
+            <trkpt lat="47.7788089" lon="13.3611585">
+                <ele>708.5</ele>
+                <time>2022-10-16T12:02:15.000Z</time>
+                <name>Position 87</name>
+            </trkpt>
+            <trkpt lat="47.7786298" lon="13.3612222">
+                <ele>708.8</ele>
+                <time>2022-10-16T12:02:41.000Z</time>
+                <name>Position 88</name>
+            </trkpt>
+            <trkpt lat="47.7784649" lon="13.3613356">
+                <ele>701.3</ele>
+                <time>2022-10-16T12:05:02.000Z</time>
+                <name>Position 89</name>
+            </trkpt>
+            <trkpt lat="47.7782826" lon="13.3612549">
+                <ele>698.6</ele>
+                <time>2022-10-16T12:05:30.000Z</time>
+                <name>Position 90</name>
+            </trkpt>
+            <trkpt lat="47.7781182" lon="13.3611341">
+                <ele>695.9</ele>
+                <time>2022-10-16T12:06:06.000Z</time>
+                <name>Position 91</name>
+            </trkpt>
+            <trkpt lat="47.7779252" lon="13.3611412">
+                <ele>690.3</ele>
+                <time>2022-10-16T12:06:34.000Z</time>
+                <name>Position 92</name>
+            </trkpt>
+            <trkpt lat="47.7777505" lon="13.361029">
+                <ele>688.5</ele>
+                <time>2022-10-16T12:07:06.000Z</time>
+                <name>Position 93</name>
+            </trkpt>
+            <trkpt lat="47.7775613" lon="13.3610702">
+                <ele>686.5</ele>
+                <time>2022-10-16T12:07:32.000Z</time>
+                <name>Position 94</name>
+            </trkpt>
+            <trkpt lat="47.7773913" lon="13.3609668">
+                <ele>681.2</ele>
+                <time>2022-10-16T12:08:24.000Z</time>
+                <name>Position 95</name>
+            </trkpt>
+            <trkpt lat="47.7772061" lon="13.3609717">
+                <ele>675.3</ele>
+                <time>2022-10-16T12:09:02.000Z</time>
+                <name>Position 96</name>
+            </trkpt>
+            <trkpt lat="47.7770241" lon="13.3610048">
+                <ele>671.0</ele>
+                <time>2022-10-16T12:09:38.000Z</time>
+                <name>Position 97</name>
+            </trkpt>
+            <trkpt lat="47.7768517" lon="13.3611366">
+                <ele>666.9</ele>
+                <time>2022-10-16T12:09:56.000Z</time>
+                <name>Position 98</name>
+            </trkpt>
+            <trkpt lat="47.776706" lon="13.3613012">
+                <ele>661.9</ele>
+                <time>2022-10-16T12:10:14.000Z</time>
+                <name>Position 99</name>
+            </trkpt>
+            <trkpt lat="47.7765138" lon="13.3612808">
+                <ele>661.1</ele>
+                <time>2022-10-16T12:10:38.000Z</time>
+                <name>Position 100</name>
+            </trkpt>
+            <trkpt lat="47.7764273" lon="13.3611354">
+                <ele>663.1</ele>
+                <time>2022-10-16T12:38:52.000Z</time>
+                <name>Position 101</name>
+            </trkpt>
+            <trkpt lat="47.7762731" lon="13.3609459">
+                <ele>665.3</ele>
+                <time>2022-10-16T12:39:08.000Z</time>
+                <name>Position 102</name>
+            </trkpt>
+            <trkpt lat="47.7762523" lon="13.3606758">
+                <ele>664.1</ele>
+                <time>2022-10-16T12:39:44.000Z</time>
+                <name>Position 103</name>
+            </trkpt>
+            <trkpt lat="47.7763893" lon="13.3604917">
+                <ele>660.3</ele>
+                <time>2022-10-16T12:40:14.000Z</time>
+                <name>Position 104</name>
+            </trkpt>
+            <trkpt lat="47.7765169" lon="13.3602724">
+                <ele>656.3</ele>
+                <time>2022-10-16T12:40:44.000Z</time>
+                <name>Position 105</name>
+            </trkpt>
+            <trkpt lat="47.7765097" lon="13.3600035">
+                <ele>651.4</ele>
+                <time>2022-10-16T12:41:34.000Z</time>
+                <name>Position 106</name>
+            </trkpt>
+            <trkpt lat="47.7764538" lon="13.3597418">
+                <ele>643.5</ele>
+                <time>2022-10-16T12:47:22.000Z</time>
+                <name>Position 107</name>
+            </trkpt>
+            <trkpt lat="47.7763628" lon="13.3595043">
+                <ele>642.4</ele>
+                <time>2022-10-16T12:47:34.000Z</time>
+                <name>Position 108</name>
+            </trkpt>
+            <trkpt lat="47.7764124" lon="13.3592307">
+                <ele>643.9</ele>
+                <time>2022-10-16T12:48:08.000Z</time>
+                <name>Position 109</name>
+            </trkpt>
+            <trkpt lat="47.7764186" lon="13.3589597">
+                <ele>646.1</ele>
+                <time>2022-10-16T12:48:42.000Z</time>
+                <name>Position 110</name>
+            </trkpt>
+            <trkpt lat="47.776439" lon="13.358647">
+                <ele>646.0</ele>
+                <time>2022-10-16T12:49:12.000Z</time>
+                <name>Position 111</name>
+            </trkpt>
+            <trkpt lat="47.7764352" lon="13.3583512">
+                <ele>646.8</ele>
+                <time>2022-10-16T12:49:30.000Z</time>
+                <name>Position 112</name>
+            </trkpt>
+            <trkpt lat="47.7765041" lon="13.3580939">
+                <ele>647.4</ele>
+                <time>2022-10-16T12:49:54.000Z</time>
+                <name>Position 113</name>
+            </trkpt>
+            <trkpt lat="47.7766048" lon="13.3578596">
+                <ele>648.5</ele>
+                <time>2022-10-16T12:50:17.000Z</time>
+                <name>Position 114</name>
+            </trkpt>
+            <trkpt lat="47.7767215" lon="13.3576389">
+                <ele>651.2</ele>
+                <time>2022-10-16T12:50:47.000Z</time>
+                <name>Position 115</name>
+            </trkpt>
+            <trkpt lat="47.7768371" lon="13.3574285">
+                <ele>652.6</ele>
+                <time>2022-10-16T12:51:13.000Z</time>
+                <name>Position 116</name>
+            </trkpt>
+            <trkpt lat="47.7769816" lon="13.3572581">
+                <ele>654.1</ele>
+                <time>2022-10-16T12:51:31.000Z</time>
+                <name>Position 117</name>
+            </trkpt>
+            <trkpt lat="47.7771399" lon="13.3570921">
+                <ele>656.7</ele>
+                <time>2022-10-16T12:52:03.000Z</time>
+                <name>Position 118</name>
+            </trkpt>
+            <trkpt lat="47.7773053" lon="13.3569482">
+                <ele>657.5</ele>
+                <time>2022-10-16T12:52:19.000Z</time>
+                <name>Position 119</name>
+            </trkpt>
+            <trkpt lat="47.7774799" lon="13.3567995">
+                <ele>661.0</ele>
+                <time>2022-10-16T12:52:55.000Z</time>
+                <name>Position 120</name>
+            </trkpt>
+            <trkpt lat="47.7776545" lon="13.356668">
+                <ele>663.2</ele>
+                <time>2022-10-16T12:53:19.000Z</time>
+                <name>Position 121</name>
+            </trkpt>
+            <trkpt lat="47.7775659" lon="13.3566317">
+                <ele>667.5</ele>
+                <time>2022-10-16T13:06:22.000Z</time>
+                <name>Position 122</name>
+            </trkpt>
+            <trkpt lat="47.7773652" lon="13.3565606">
+                <ele>668.1</ele>
+                <time>2022-10-16T13:06:38.000Z</time>
+                <name>Position 123</name>
+            </trkpt>
+            <trkpt lat="47.7771869" lon="13.356627">
+                <ele>667.1</ele>
+                <time>2022-10-16T13:06:58.000Z</time>
+                <name>Position 124</name>
+            </trkpt>
+            <trkpt lat="47.7770178" lon="13.3567318">
+                <ele>666.5</ele>
+                <time>2022-10-16T13:07:08.000Z</time>
+                <name>Position 125</name>
+            </trkpt>
+            <trkpt lat="47.7768366" lon="13.3568896">
+                <ele>667.8</ele>
+                <time>2022-10-16T13:07:18.000Z</time>
+                <name>Position 126</name>
+            </trkpt>
+            <trkpt lat="47.7766653" lon="13.3570029">
+                <ele>668.1</ele>
+                <time>2022-10-16T13:07:30.000Z</time>
+                <name>Position 127</name>
+            </trkpt>
+            <trkpt lat="47.776484" lon="13.3570936">
+                <ele>665.8</ele>
+                <time>2022-10-16T13:07:42.000Z</time>
+                <name>Position 128</name>
+            </trkpt>
+            <trkpt lat="47.7763059" lon="13.3571579">
+                <ele>664.6</ele>
+                <time>2022-10-16T13:08:34.000Z</time>
+                <name>Position 129</name>
+            </trkpt>
+            <trkpt lat="47.7761559" lon="13.3573405">
+                <ele>661.9</ele>
+                <time>2022-10-16T13:09:00.000Z</time>
+                <name>Position 130</name>
+            </trkpt>
+            <trkpt lat="47.7759312" lon="13.3573741">
+                <ele>659.3</ele>
+                <time>2022-10-16T13:09:20.000Z</time>
+                <name>Position 131</name>
+            </trkpt>
+            <trkpt lat="47.7757422" lon="13.3573194">
+                <ele>655.2</ele>
+                <time>2022-10-16T13:09:34.000Z</time>
+                <name>Position 132</name>
+            </trkpt>
+            <trkpt lat="47.7755603" lon="13.3572117">
+                <ele>653.5</ele>
+                <time>2022-10-16T13:09:48.000Z</time>
+                <name>Position 133</name>
+            </trkpt>
+            <trkpt lat="47.7753895" lon="13.3570768">
+                <ele>652.3</ele>
+                <time>2022-10-16T13:10:02.000Z</time>
+                <name>Position 134</name>
+            </trkpt>
+            <trkpt lat="47.7752255" lon="13.3569481">
+                <ele>651.7</ele>
+                <time>2022-10-16T13:10:18.000Z</time>
+                <name>Position 135</name>
+            </trkpt>
+            <trkpt lat="47.775129" lon="13.356706">
+                <ele>650.2</ele>
+                <time>2022-10-16T13:10:32.000Z</time>
+                <name>Position 136</name>
+            </trkpt>
+            <trkpt lat="47.7749842" lon="13.3565289">
+                <ele>649.0</ele>
+                <time>2022-10-16T13:10:50.000Z</time>
+                <name>Position 137</name>
+            </trkpt>
+            <trkpt lat="47.7748367" lon="13.3563252">
+                <ele>647.0</ele>
+                <time>2022-10-16T13:11:06.000Z</time>
+                <name>Position 138</name>
+            </trkpt>
+            <trkpt lat="47.7746874" lon="13.3561643">
+                <ele>645.7</ele>
+                <time>2022-10-16T13:11:20.000Z</time>
+                <name>Position 139</name>
+            </trkpt>
+            <trkpt lat="47.7745154" lon="13.3559942">
+                <ele>643.7</ele>
+                <time>2022-10-16T13:11:36.000Z</time>
+                <name>Position 140</name>
+            </trkpt>
+            <trkpt lat="47.7743628" lon="13.3558115">
+                <ele>642.6</ele>
+                <time>2022-10-16T13:11:54.000Z</time>
+                <name>Position 141</name>
+            </trkpt>
+            <trkpt lat="47.7742041" lon="13.3556457">
+                <ele>640.3</ele>
+                <time>2022-10-16T13:12:12.000Z</time>
+                <name>Position 142</name>
+            </trkpt>
+            <trkpt lat="47.7740454" lon="13.3554715">
+                <ele>638.6</ele>
+                <time>2022-10-16T13:12:28.000Z</time>
+                <name>Position 143</name>
+            </trkpt>
+            <trkpt lat="47.773887" lon="13.3553075">
+                <ele>637.7</ele>
+                <time>2022-10-16T13:12:42.000Z</time>
+                <name>Position 144</name>
+            </trkpt>
+            <trkpt lat="47.7737424" lon="13.3550936">
+                <ele>636.2</ele>
+                <time>2022-10-16T13:12:59.000Z</time>
+                <name>Position 145</name>
+            </trkpt>
+            <trkpt lat="47.7736007" lon="13.3548901">
+                <ele>635.4</ele>
+                <time>2022-10-16T13:13:15.000Z</time>
+                <name>Position 146</name>
+            </trkpt>
+            <trkpt lat="47.7734479" lon="13.3547169">
+                <ele>632.1</ele>
+                <time>2022-10-16T13:13:33.000Z</time>
+                <name>Position 147</name>
+            </trkpt>
+            <trkpt lat="47.7732823" lon="13.3545359">
+                <ele>630.9</ele>
+                <time>2022-10-16T13:13:49.000Z</time>
+                <name>Position 148</name>
+            </trkpt>
+            <trkpt lat="47.7731507" lon="13.3543476">
+                <ele>630.2</ele>
+                <time>2022-10-16T13:14:01.000Z</time>
+                <name>Position 149</name>
+            </trkpt>
+            <trkpt lat="47.772976" lon="13.3542075">
+                <ele>632.7</ele>
+                <time>2022-10-16T13:14:21.000Z</time>
+                <name>Position 150</name>
+            </trkpt>
+            <trkpt lat="47.7728391" lon="13.3540256">
+                <ele>632.6</ele>
+                <time>2022-10-16T13:14:33.000Z</time>
+                <name>Position 151</name>
+            </trkpt>
+            <trkpt lat="47.7727092" lon="13.3538155">
+                <ele>633.9</ele>
+                <time>2022-10-16T13:14:49.000Z</time>
+                <name>Position 152</name>
+            </trkpt>
+            <trkpt lat="47.7726017" lon="13.3535956">
+                <ele>635.1</ele>
+                <time>2022-10-16T13:15:05.000Z</time>
+                <name>Position 153</name>
+            </trkpt>
+            <trkpt lat="47.7724837" lon="13.35339">
+                <ele>636.3</ele>
+                <time>2022-10-16T13:15:21.000Z</time>
+                <name>Position 154</name>
+            </trkpt>
+            <trkpt lat="47.7723862" lon="13.3531296">
+                <ele>637.4</ele>
+                <time>2022-10-16T13:15:39.000Z</time>
+                <name>Position 155</name>
+            </trkpt>
+            <trkpt lat="47.772324" lon="13.3528688">
+                <ele>639.0</ele>
+                <time>2022-10-16T13:15:55.000Z</time>
+                <name>Position 156</name>
+            </trkpt>
+            <trkpt lat="47.7722547" lon="13.3526122">
+                <ele>640.5</ele>
+                <time>2022-10-16T13:16:21.000Z</time>
+                <name>Position 157</name>
+            </trkpt>
+            <trkpt lat="47.7722647" lon="13.3523278">
+                <ele>642.4</ele>
+                <time>2022-10-16T13:16:41.000Z</time>
+                <name>Position 158</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

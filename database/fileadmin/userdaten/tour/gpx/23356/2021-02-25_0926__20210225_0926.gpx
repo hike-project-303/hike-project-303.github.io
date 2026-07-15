@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.30-SNAPSHOT-145">
+    <metadata>
+        <name>2021-02-25 09:26</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2021-02-25T16:17:07.995Z</time>
+        <bounds minlat="47.9958427" minlon="16.1045733" maxlat="47.9968453" maxlon="16.1060839"/>
+    </metadata>
+    <wpt lat="47.9968453" lon="16.1045733">
+        <ele>404.1</ele>
+        <time>2021-02-25T08:26:35.000Z</time>
+        <name>0000534</name>
+        <sym>Waypoint</sym>
+        <type>Startpunkt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="ICON">38</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+    </wpt>
+    <wpt lat="47.9960563" lon="16.1055251">
+        <ele>446.6</ele>
+        <time>2021-02-25T09:55:11.000Z</time>
+        <name>0000535</name>
+        <desc>&lt;p&gt;&lt;br /&gt;&lt;h3&gt;Name: Segment: 1&lt;/h3&gt;&lt;br /&gt;Startzeit: 02/25/2021 09:26&lt;br/&gt;Zielzeit: 02/25/2021 10:55&lt;br/&gt;Strecke: 0,3km (01:28)&lt;br/&gt;Bewegungszeit: 00:04&lt;br/&gt;Ø-Geschwindigkeit: 0,18 km/h&lt;br/&gt;Netto-Geschwindigkeit: 3,36 km/h&lt;br/&gt;Max. Geschwindigkeit: 3,88 km/h&lt;br/&gt;Minimale Höhe: 404 m&lt;br/&gt;Maximale Höhe: 446 m&lt;br/&gt;Aufstieg: 30 m&lt;br/&gt;Abstieg: 0 m&lt;br/&gt;Steigzeit: 00:07&lt;br/&gt;Sinkzeit: 00:00&lt;br/&gt;&lt;/p&gt;</desc>
+        <sym>Waypoint</sym>
+        <type>Endpunkt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="ICON">15</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>2021-02-25 09:26</name>
+        <desc>&lt;p&gt;Startzeit: 02/25/2021 09:26&lt;br/&gt;Zielzeit: 02/25/2021 10:55&lt;br/&gt;Strecke: 0,
+3 km (01:28)&lt;br/&gt;Bewegungszeit: 00:04&lt;br/&gt;Ø-Geschwindigkeit: 0,
+18 km/h&lt;br/&gt;Netto-Geschwindigkeit: 3,
+36 km/h&lt;br/&gt;Max. Geschwindigkeit: 3,
+88 km/h&lt;br/&gt;Minimale Höhe: 404 m&lt;br/&gt;Maximale Höhe: 446 m&lt;br/&gt;Steig-Geschw.: 21 m/h&lt;br/&gt;Aufstieg: 30 m&lt;br/&gt;Steigzeit: 01:28&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Unbestimmt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">0</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.9968453" lon="16.1045733">
+                <ele>404.1</ele>
+                <time>2021-02-25T08:26:39.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="47.9967857" lon="16.104674">
+                <ele>423.9</ele>
+                <time>2021-02-25T08:26:49.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="47.9967381" lon="16.104797">
+                <ele>424.7</ele>
+                <time>2021-02-25T08:26:56.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="47.9966863" lon="16.1049115">
+                <ele>426.3</ele>
+                <time>2021-02-25T08:27:09.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="47.9966525" lon="16.105038">
+                <ele>427.8</ele>
+                <time>2021-02-25T08:27:17.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="47.996597" lon="16.1051476">
+                <ele>427.9</ele>
+                <time>2021-02-25T08:27:34.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="47.9965141" lon="16.1052127">
+                <ele>429.1</ele>
+                <time>2021-02-25T08:27:44.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="47.996432" lon="16.1053029">
+                <ele>429.8</ele>
+                <time>2021-02-25T08:27:53.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="47.9963638" lon="16.1053964">
+                <ele>431.4</ele>
+                <time>2021-02-25T08:28:13.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="47.996285" lon="16.1054841">
+                <ele>433.8</ele>
+                <time>2021-02-25T08:30:26.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="47.9962298" lon="16.1055966">
+                <ele>436.3</ele>
+                <time>2021-02-25T08:32:05.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="47.996144" lon="16.1056534">
+                <ele>436.5</ele>
+                <time>2021-02-25T08:32:42.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="47.9960942" lon="16.105766">
+                <ele>435.4</ele>
+                <time>2021-02-25T08:33:43.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="47.9960642" lon="16.1056359">
+                <ele>435.6</ele>
+                <time>2021-02-25T08:33:57.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="47.9959964" lon="16.1057278">
+                <ele>437.6</ele>
+                <time>2021-02-25T08:34:25.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="47.9959584" lon="16.1058604">
+                <ele>439.1</ele>
+                <time>2021-02-25T08:35:08.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="47.9959074" lon="16.1059896">
+                <ele>442.3</ele>
+                <time>2021-02-25T08:35:19.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="47.9958427" lon="16.1060839">
+                <ele>443.6</ele>
+                <time>2021-02-25T08:36:04.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="47.9958955" lon="16.1059646">
+                <ele>443.5</ele>
+                <time>2021-02-25T08:38:13.000Z</time>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="47.9959838" lon="16.1058722">
+                <ele>439.2</ele>
+                <time>2021-02-25T08:38:38.000Z</time>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="47.9959937" lon="16.105738">
+                <ele>439.9</ele>
+                <time>2021-02-25T08:39:49.000Z</time>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="47.9959573" lon="16.105864">
+                <ele>441.3</ele>
+                <time>2021-02-25T08:49:17.000Z</time>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="47.9959606" lon="16.1057296">
+                <ele>442.1</ele>
+                <time>2021-02-25T08:53:44.000Z</time>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="47.9960173" lon="16.1058343">
+                <ele>442.6</ele>
+                <time>2021-02-25T08:55:55.000Z</time>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="47.9959562" lon="16.105735">
+                <ele>443.4</ele>
+                <time>2021-02-25T09:01:59.000Z</time>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="47.9968604" lon="16.1046668">
+                <ele>446.6</ele>
+                <time>2021-02-25T09:55:15.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

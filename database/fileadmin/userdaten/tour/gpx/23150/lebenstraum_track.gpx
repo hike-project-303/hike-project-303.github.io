@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2020-09-18 12:11</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2020-09-18T10:11:53Z</time>
+        <bounds minlat="47.4077855" minlon="11.6193585" maxlat="47.4405849" maxlon="11.7603057"/>
+    </metadata>
+    <wpt lat="47.4081808" lon="11.6193507">
+        <ele>1293.4</ele>
+        <time>2020-09-18T11:09:51.000Z</time>
+        <name>0000091</name>
+        <sym>Waypoint</sym>
+        <type>Wegpunkt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="ICON">1</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>2020-09-18 12:11</name>
+        <desc>&lt;p&gt;Startzeit: 12:11 18.09.2020&lt;br/&gt;Zielzeit: 17:13 18.09.2020&lt;br/&gt;Strecke: 27,
+2 km (05:01)&lt;br/&gt;Bewegungszeit: 00:57&lt;br/&gt;Ø-Geschwindigkeit: 5,
+4 km/h&lt;br/&gt;Netto-Geschwindigkeit: 28,
+27 km/h&lt;br/&gt;Max. Geschwindigkeit: 59,
+1 km/h&lt;br/&gt;Minimale Höhe: 935 m&lt;br/&gt;Maximale Höhe: 1298 m&lt;br/&gt;Steig-Geschw.: 552,
+7 m/h&lt;br/&gt;Sink-Geschw.: -100,
+8 m/h&lt;br/&gt;Aufstieg: 427 m&lt;br/&gt;Abstieg: -423 m&lt;br/&gt;Steigzeit: 00:46&lt;br/&gt;Sinkzeit: 04:12&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Bergsteigen</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">7</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.4078905" lon="11.6213241">
+                <ele>1226.3</ele>
+                <time>2020-09-18T10:41:05.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="47.4077945" lon="11.6207144">
+                <ele>1226.5</ele>
+                <time>2020-09-18T10:41:11.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="47.4079139" lon="11.6204573">
+                <ele>1227.9</ele>
+                <time>2020-09-18T10:45:11.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="47.4080803" lon="11.6205627">
+                <ele>1237.1</ele>
+                <time>2020-09-18T10:46:01.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="47.4082625" lon="11.6205828">
+                <ele>1241.0</ele>
+                <time>2020-09-18T10:46:43.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="47.4082759" lon="11.6203056">
+                <ele>1253.7</ele>
+                <time>2020-09-18T10:58:45.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="47.4081864" lon="11.6200724">
+                <ele>1268.0</ele>
+                <time>2020-09-18T10:59:47.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="47.4081065" lon="11.6198275">
+                <ele>1284.2</ele>
+                <time>2020-09-18T11:01:25.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="47.4080732" lon="11.6195654">
+                <ele>1298.9</ele>
+                <time>2020-09-18T11:02:29.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="47.4081833" lon="11.6193505">
+                <ele>1294.2</ele>
+                <time>2020-09-18T11:05:01.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="47.4080644" lon="11.6195798">
+                <ele>1295.7</ele>
+                <time>2020-09-18T14:41:25.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="47.4081378" lon="11.6198316">
+                <ele>1287.0</ele>
+                <time>2020-09-18T14:42:17.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="47.4081755" lon="11.6200959">
+                <ele>1275.4</ele>
+                <time>2020-09-18T14:43:43.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="47.4082585" lon="11.6203341">
+                <ele>1264.7</ele>
+                <time>2020-09-18T14:44:55.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="47.4080717" lon="11.6204032">
+                <ele>1250.8</ele>
+                <time>2020-09-18T14:46:05.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="47.4078938" lon="11.62045">
+                <ele>1236.9</ele>
+                <time>2020-09-18T14:47:11.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="47.4077855" lon="11.6206889">
+                <ele>1229.7</ele>
+                <time>2020-09-18T14:51:05.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="47.4079086" lon="11.6213224">
+                <ele>1230.6</ele>
+                <time>2020-09-18T14:51:13.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

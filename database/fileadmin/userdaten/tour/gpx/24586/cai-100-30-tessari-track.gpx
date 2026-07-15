@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2024-05-10 10:50</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2024-05-10T08:50:37Z</time>
+        <bounds minlat="45.5943307" minlon="10.8307476" maxlat="45.5982994" maxlon="10.8392064"/>
+    </metadata>
+    <trk>
+        <name>2024-05-10 10:50</name>
+        <desc>&lt;p&gt;Startzeit: 10:50 10.05.2024&lt;br/&gt;Zielzeit: 15:37 10.05.2024&lt;br/&gt;Strecke: 2,
+9 km (04:46)&lt;br/&gt;Ø-Geschwindigkeit: 0,
+61 km/h&lt;br/&gt;Max. Geschwindigkeit: 8,
+97 km/h&lt;br/&gt;Minimale Höhe: 130 m&lt;br/&gt;Maximale Höhe: 457 m&lt;br/&gt;Steig-Geschw.: 85,
+3 m/h&lt;br/&gt;Sink-Geschw.: -440,
+9 m/h&lt;br/&gt;Aufstieg: 337 m&lt;br/&gt;Abstieg: -331 m&lt;br/&gt;Steigzeit: 03:57&lt;br/&gt;Sinkzeit: 00:45&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Klettern</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">36</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="45.5976365" lon="10.8389582">
+                <ele>138.6</ele>
+                <time>2024-05-10T08:54:46.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="45.5977599" lon="10.8391813">
+                <ele>140.2</ele>
+                <time>2024-05-10T08:55:03.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="45.597893" lon="10.8390656">
+                <ele>142.1</ele>
+                <time>2024-05-10T08:55:42.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="45.5980169" lon="10.8388738">
+                <ele>143.7</ele>
+                <time>2024-05-10T08:56:00.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="45.5980888" lon="10.8386319">
+                <ele>150.0</ele>
+                <time>2024-05-10T08:56:26.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="45.5981723" lon="10.8383992">
+                <ele>152.7</ele>
+                <time>2024-05-10T08:57:26.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="45.5982786" lon="10.8381886">
+                <ele>156.7</ele>
+                <time>2024-05-10T08:58:11.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="45.5982963" lon="10.8379234">
+                <ele>162.7</ele>
+                <time>2024-05-10T09:00:26.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="45.5981956" lon="10.8377058">
+                <ele>169.5</ele>
+                <time>2024-05-10T09:00:50.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="45.5982994" lon="10.8374876">
+                <ele>172.4</ele>
+                <time>2024-05-10T09:01:28.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="45.5982269" lon="10.8372503">
+                <ele>178.8</ele>
+                <time>2024-05-10T09:01:56.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="45.5980498" lon="10.8373089">
+                <ele>181.0</ele>
+                <time>2024-05-10T09:02:25.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="45.5978677" lon="10.8373432">
+                <ele>189.1</ele>
+                <time>2024-05-10T09:02:50.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="45.5979727" lon="10.8371335">
+                <ele>194.9</ele>
+                <time>2024-05-10T09:03:26.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="45.5980351" lon="10.8368719">
+                <ele>198.7</ele>
+                <time>2024-05-10T09:04:07.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="45.5981358" lon="10.8366541">
+                <ele>201.3</ele>
+                <time>2024-05-10T09:04:36.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="45.5979497" lon="10.836646">
+                <ele>213.7</ele>
+                <time>2024-05-10T09:05:25.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="45.597796" lon="10.836496">
+                <ele>214.7</ele>
+                <time>2024-05-10T09:06:02.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="45.5977199" lon="10.8362603">
+                <ele>221.1</ele>
+                <time>2024-05-10T09:06:31.000Z</time>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="45.5976998" lon="10.835997">
+                <ele>224.8</ele>
+                <time>2024-05-10T09:06:59.000Z</time>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="45.5975338" lon="10.8358691">
+                <ele>225.8</ele>
+                <time>2024-05-10T09:07:19.000Z</time>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="45.5973513" lon="10.8357852">
+                <ele>227.3</ele>
+                <time>2024-05-10T09:07:37.000Z</time>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="45.5971734" lon="10.835731">
+                <ele>225.8</ele>
+                <time>2024-05-10T09:07:57.000Z</time>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="45.5970029" lon="10.8356288">
+                <ele>232.1</ele>
+                <time>2024-05-10T09:08:20.000Z</time>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="45.5968342" lon="10.8355231">
+                <ele>229.9</ele>
+                <time>2024-05-10T09:08:50.000Z</time>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="45.5966672" lon="10.835417">
+                <ele>228.6</ele>
+                <time>2024-05-10T09:09:06.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+            <trkpt lat="45.5964869" lon="10.8354064">
+                <ele>231.9</ele>
+                <time>2024-05-10T09:09:29.000Z</time>
+                <name>Position 27</name>
+            </trkpt>
+            <trkpt lat="45.5963069" lon="10.8354135">
+                <ele>234.3</ele>
+                <time>2024-05-10T09:10:10.000Z</time>
+                <name>Position 28</name>
+            </trkpt>
+            <trkpt lat="45.596127" lon="10.8353908">
+                <ele>236.2</ele>
+                <time>2024-05-10T09:10:25.000Z</time>
+                <name>Position 29</name>
+            </trkpt>
+            <trkpt lat="45.595981" lon="10.8352345">
+                <ele>242.0</ele>
+                <time>2024-05-10T09:11:35.000Z</time>
+                <name>Position 30</name>
+            </trkpt>
+            <trkpt lat="45.5959055" lon="10.8349985">
+                <ele>256.0</ele>
+                <time>2024-05-10T09:12:32.000Z</time>
+                <name>Position 31</name>
+            </trkpt>
+            <trkpt lat="45.5959216" lon="10.8347348">
+                <ele>269.9</ele>
+                <time>2024-05-10T09:14:06.000Z</time>
+                <name>Position 32</name>
+            </trkpt>
+            <trkpt lat="45.5960738" lon="10.834583">
+                <ele>276.7</ele>
+                <time>2024-05-10T09:14:52.000Z</time>
+                <name>Position 33</name>
+            </trkpt>
+            <trkpt lat="45.5960896" lon="10.8343269">
+                <ele>301.6</ele>
+                <time>2024-05-10T09:49:13.000Z</time>
+                <name>Position 34</name>
+            </trkpt>
+            <trkpt lat="45.5957967" lon="10.8342161">
+                <ele>324.7</ele>
+                <time>2024-05-10T10:13:21.000Z</time>
+                <name>Position 35</name>
+            </trkpt>
+            <trkpt lat="45.5960072" lon="10.8343867">
+                <ele>318.3</ele>
+                <time>2024-05-10T10:13:22.000Z</time>
+                <name>Position 36</name>
+            </trkpt>
+            <trkpt lat="45.5961744" lon="10.8342913">
+                <ele>326.7</ele>
+                <time>2024-05-10T10:30:22.000Z</time>
+                <name>Position 37</name>
+            </trkpt>
+            <trkpt lat="45.5962576" lon="10.8340622">
+                <ele>345.4</ele>
+                <time>2024-05-10T10:34:25.000Z</time>
+                <name>Position 38</name>
+            </trkpt>
+            <trkpt lat="45.5963947" lon="10.8338822">
+                <ele>360.4</ele>
+                <time>2024-05-10T10:50:26.000Z</time>
+                <name>Position 39</name>
+            </trkpt>
+            <trkpt lat="45.5962645" lon="10.8337046">
+                <ele>358.2</ele>
+                <time>2024-05-10T10:52:46.000Z</time>
+                <name>Position 40</name>
+            </trkpt>
+            <trkpt lat="45.5960894" lon="10.8338033">
+                <ele>334.2</ele>
+                <time>2024-05-10T10:54:31.000Z</time>
+                <name>Position 41</name>
+            </trkpt>
+            <trkpt lat="45.5960715" lon="10.833824">
+                <ele>338.3</ele>
+                <time>2024-05-10T13:17:39.000Z</time>
+                <name>Position 42</name>
+            </trkpt>
+            <trkpt lat="45.5959424" lon="10.8340053">
+                <ele>319.0</ele>
+                <time>2024-05-10T13:19:25.000Z</time>
+                <name>Position 43</name>
+            </trkpt>
+            <trkpt lat="45.5958441" lon="10.8342269">
+                <ele>294.6</ele>
+                <time>2024-05-10T13:20:27.000Z</time>
+                <name>Position 44</name>
+            </trkpt>
+            <trkpt lat="45.595978" lon="10.8344015">
+                <ele>281.7</ele>
+                <time>2024-05-10T13:21:30.000Z</time>
+                <name>Position 45</name>
+            </trkpt>
+            <trkpt lat="45.5959647" lon="10.8346623">
+                <ele>268.2</ele>
+                <time>2024-05-10T13:23:12.000Z</time>
+                <name>Position 46</name>
+            </trkpt>
+            <trkpt lat="45.5959304" lon="10.8349194">
+                <ele>253.8</ele>
+                <time>2024-05-10T13:23:56.000Z</time>
+                <name>Position 47</name>
+            </trkpt>
+            <trkpt lat="45.5959412" lon="10.8351874">
+                <ele>244.2</ele>
+                <time>2024-05-10T13:24:57.000Z</time>
+                <name>Position 48</name>
+            </trkpt>
+            <trkpt lat="45.5960943" lon="10.835332">
+                <ele>237.9</ele>
+                <time>2024-05-10T13:26:50.000Z</time>
+                <name>Position 49</name>
+            </trkpt>
+            <trkpt lat="45.5962641" lon="10.8354252">
+                <ele>233.9</ele>
+                <time>2024-05-10T13:27:31.000Z</time>
+                <name>Position 50</name>
+            </trkpt>
+            <trkpt lat="45.5964446" lon="10.8354612">
+                <ele>233.7</ele>
+                <time>2024-05-10T13:27:45.000Z</time>
+                <name>Position 51</name>
+            </trkpt>
+            <trkpt lat="45.5966306" lon="10.8354388">
+                <ele>230.7</ele>
+                <time>2024-05-10T13:28:04.000Z</time>
+                <name>Position 52</name>
+            </trkpt>
+            <trkpt lat="45.5968019" lon="10.8355363">
+                <ele>236.3</ele>
+                <time>2024-05-10T13:28:26.000Z</time>
+                <name>Position 53</name>
+            </trkpt>
+            <trkpt lat="45.5969649" lon="10.835666">
+                <ele>238.2</ele>
+                <time>2024-05-10T13:28:44.000Z</time>
+                <name>Position 54</name>
+            </trkpt>
+            <trkpt lat="45.5971169" lon="10.835805">
+                <ele>233.6</ele>
+                <time>2024-05-10T13:29:03.000Z</time>
+                <name>Position 55</name>
+            </trkpt>
+            <trkpt lat="45.5972961" lon="10.8358297">
+                <ele>234.3</ele>
+                <time>2024-05-10T13:29:22.000Z</time>
+                <name>Position 56</name>
+            </trkpt>
+            <trkpt lat="45.5974789" lon="10.8358937">
+                <ele>232.3</ele>
+                <time>2024-05-10T13:29:34.000Z</time>
+                <name>Position 57</name>
+            </trkpt>
+            <trkpt lat="45.5976462" lon="10.8359915">
+                <ele>227.9</ele>
+                <time>2024-05-10T13:29:58.000Z</time>
+                <name>Position 58</name>
+            </trkpt>
+            <trkpt lat="45.5976946" lon="10.836253">
+                <ele>227.2</ele>
+                <time>2024-05-10T13:30:24.000Z</time>
+                <name>Position 59</name>
+            </trkpt>
+            <trkpt lat="45.597758" lon="10.8365056">
+                <ele>227.3</ele>
+                <time>2024-05-10T13:30:48.000Z</time>
+                <name>Position 60</name>
+            </trkpt>
+            <trkpt lat="45.5979057" lon="10.8366871">
+                <ele>210.6</ele>
+                <time>2024-05-10T13:31:12.000Z</time>
+                <name>Position 61</name>
+            </trkpt>
+            <trkpt lat="45.5980913" lon="10.8366384">
+                <ele>203.7</ele>
+                <time>2024-05-10T13:31:43.000Z</time>
+                <name>Position 62</name>
+            </trkpt>
+            <trkpt lat="45.598063" lon="10.8369085">
+                <ele>196.9</ele>
+                <time>2024-05-10T13:32:43.000Z</time>
+                <name>Position 63</name>
+            </trkpt>
+            <trkpt lat="45.5979843" lon="10.8371543">
+                <ele>187.7</ele>
+                <time>2024-05-10T13:32:58.000Z</time>
+                <name>Position 64</name>
+            </trkpt>
+            <trkpt lat="45.5981793" lon="10.837468">
+                <ele>157.3</ele>
+                <time>2024-05-10T13:33:18.000Z</time>
+                <name>Position 65</name>
+            </trkpt>
+            <trkpt lat="45.5979362" lon="10.8374464">
+                <ele>177.0</ele>
+                <time>2024-05-10T13:33:20.000Z</time>
+                <name>Position 66</name>
+            </trkpt>
+            <trkpt lat="45.5981014" lon="10.8373353">
+                <ele>182.2</ele>
+                <time>2024-05-10T13:33:38.000Z</time>
+                <name>Position 67</name>
+            </trkpt>
+            <trkpt lat="45.5982988" lon="10.8373795">
+                <ele>183.0</ele>
+                <time>2024-05-10T13:34:12.000Z</time>
+                <name>Position 68</name>
+            </trkpt>
+            <trkpt lat="45.5982243" lon="10.8376281">
+                <ele>180.4</ele>
+                <time>2024-05-10T13:34:39.000Z</time>
+                <name>Position 69</name>
+            </trkpt>
+            <trkpt lat="45.5982502" lon="10.837886">
+                <ele>176.4</ele>
+                <time>2024-05-10T13:34:59.000Z</time>
+                <name>Position 70</name>
+            </trkpt>
+            <trkpt lat="45.5982748" lon="10.8381414">
+                <ele>166.0</ele>
+                <time>2024-05-10T13:35:19.000Z</time>
+                <name>Position 71</name>
+            </trkpt>
+            <trkpt lat="45.5981965" lon="10.8384137">
+                <ele>167.6</ele>
+                <time>2024-05-10T13:36:02.000Z</time>
+                <name>Position 72</name>
+            </trkpt>
+            <trkpt lat="45.598116" lon="10.8386456">
+                <ele>158.6</ele>
+                <time>2024-05-10T13:36:14.000Z</time>
+                <name>Position 73</name>
+            </trkpt>
+            <trkpt lat="45.5980672" lon="10.8389148">
+                <ele>152.9</ele>
+                <time>2024-05-10T13:36:26.000Z</time>
+                <name>Position 74</name>
+            </trkpt>
+            <trkpt lat="45.5979956" lon="10.8391567">
+                <ele>153.6</ele>
+                <time>2024-05-10T13:36:46.000Z</time>
+                <name>Position 75</name>
+            </trkpt>
+            <trkpt lat="45.5978135" lon="10.8392064">
+                <ele>145.3</ele>
+                <time>2024-05-10T13:37:03.000Z</time>
+                <name>Position 76</name>
+            </trkpt>
+            <trkpt lat="45.5976567" lon="10.839054">
+                <ele>141.2</ele>
+                <time>2024-05-10T13:37:17.000Z</time>
+                <name>Position 77</name>
+            </trkpt>
+            <trkpt lat="45.5975556" lon="10.8388382">
+                <ele>139.8</ele>
+                <time>2024-05-10T13:37:34.000Z</time>
+                <name>0000096</name>
+                <desc>&lt;p&gt;&lt;br /&gt;&lt;h3&gt;Name: Segment: 1&lt;/h3&gt;&lt;br /&gt;Startzeit: 10:50 10.05.2024&lt;br/&gt;Zielzeit: 15:37 10.05.2024&lt;br/&gt;Strecke: 2,9km (04:46)&lt;br/&gt;Bewegungszeit: 00:00&lt;br/&gt;Ø-Geschwindigkeit: 0,61 km/h&lt;br/&gt;Netto-Geschwindigkeit: 3,84 km/h&lt;br/&gt;Max. Geschwindigkeit: 8,97 km/h&lt;br/&gt;Minimale Höhe: 130 m&lt;br/&gt;Maximale Höhe: 457 m&lt;br/&gt;Steig-Geschw.: 87,9 m/h&lt;br/&gt;Sink-Geschw.: -483,7 m/h&lt;br/&gt;Aufstieg: 358 m&lt;br/&gt;Abstieg: -335 m&lt;br/&gt;Steigzeit: 04:04&lt;br/&gt;Sinkzeit: 00:41&lt;br/&gt;&lt;/p&gt;</desc>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

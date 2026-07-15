@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2019-08-07 12:39</name>
+        <link href="http://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2019-08-07T10:39:52Z</time>
+        <bounds minlat="46.0117512" minlon="10.9277789" maxlat="46.0184041" maxlon="10.9399849"/>
+    </metadata>
+    <wpt lat="46.0130188" lon="10.9301322">
+        <ele>422.5</ele>
+        <time>2019-08-07T11:15:56.000Z</time>
+        <name>0000101</name>
+        <sym>Waypoint</sym>
+        <type>Wegpunkt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="ICON">1</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>2019-08-07 12:39</name>
+        <desc>&lt;p&gt;Startzeit: 08/07/2019 12:39&lt;br/&gt;Zielzeit: 08/07/2019 16:47&lt;br/&gt;Strecke: 4,
+3 km (04:07)&lt;br/&gt;Bewegungszeit: 01:09&lt;br/&gt;Ø-Geschwindigkeit: 1,
+03 km/h&lt;br/&gt;Netto-Geschwindigkeit: 3,
+67 km/h&lt;br/&gt;Max. Geschwindigkeit: 8,
+05 km/h&lt;br/&gt;Minimale Höhe: 241 m&lt;br/&gt;Maximale Höhe: 591 m&lt;br/&gt;Steig-Geschw.: 125,
+2 m/h&lt;br/&gt;Sink-Geschw.: -610,
+7 m/h&lt;br/&gt;Aufstieg: 428 m&lt;br/&gt;Abstieg: -429 m&lt;br/&gt;Steigzeit: 03:25&lt;br/&gt;Sinkzeit: 00:42&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Bergsteigen</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">7</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="46.0174642" lon="10.9464585">
+                <ele>260.8</ele>
+                <time>2019-08-07T10:46:52.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="46.0170726" lon="10.9455283">
+                <ele>255.0</ele>
+                <time>2019-08-07T10:47:46.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="46.0170184" lon="10.9448197">
+                <ele>258.6</ele>
+                <time>2019-08-07T10:47:58.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="46.0169963" lon="10.9434497">
+                <ele>266.2</ele>
+                <time>2019-08-07T10:48:12.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="46.0171313" lon="10.9427621">
+                <ele>258.2</ele>
+                <time>2019-08-07T10:48:26.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="46.0176135" lon="10.9424662">
+                <ele>260.3</ele>
+                <time>2019-08-07T10:48:36.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="46.0176568" lon="10.9420382">
+                <ele>275.9</ele>
+                <time>2019-08-07T10:50:02.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="46.0178541" lon="10.9418862">
+                <ele>273.4</ele>
+                <time>2019-08-07T10:50:14.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="46.0181646" lon="10.9409251">
+                <ele>279.6</ele>
+                <time>2019-08-07T10:50:24.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="46.0178561" lon="10.939831">
+                <ele>287.5</ele>
+                <time>2019-08-07T10:50:38.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="46.0179615" lon="10.9390994">
+                <ele>286.1</ele>
+                <time>2019-08-07T10:50:58.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="46.0181766" lon="10.9385332">
+                <ele>274.9</ele>
+                <time>2019-08-07T10:52:40.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="46.0183413" lon="10.9374618">
+                <ele>273.8</ele>
+                <time>2019-08-07T10:52:50.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="46.0184865" lon="10.9372665">
+                <ele>275.7</ele>
+                <time>2019-08-07T10:53:06.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="46.0182045" lon="10.93654">
+                <ele>277.9</ele>
+                <time>2019-08-07T10:53:22.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="46.0178056" lon="10.935955">
+                <ele>280.8</ele>
+                <time>2019-08-07T10:53:36.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="46.0175805" lon="10.9352152">
+                <ele>276.2</ele>
+                <time>2019-08-07T10:53:48.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="46.0175305" lon="10.9350062">
+                <ele>275.6</ele>
+                <time>2019-08-07T10:54:04.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="46.0171368" lon="10.9351344">
+                <ele>271.7</ele>
+                <time>2019-08-07T10:54:16.000Z</time>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="46.0168945" lon="10.9353915">
+                <ele>272.2</ele>
+                <time>2019-08-07T10:54:30.000Z</time>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="46.0164922" lon="10.9357517">
+                <ele>270.2</ele>
+                <time>2019-08-07T10:54:44.000Z</time>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="46.016127" lon="10.9350781">
+                <ele>274.6</ele>
+                <time>2019-08-07T10:55:02.000Z</time>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="46.0159072" lon="10.9343642">
+                <ele>282.8</ele>
+                <time>2019-08-07T10:55:26.000Z</time>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="46.0158497" lon="10.9340196">
+                <ele>278.1</ele>
+                <time>2019-08-07T10:56:00.000Z</time>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="46.0158375" lon="10.9338777">
+                <ele>283.7</ele>
+                <time>2019-08-07T10:57:04.000Z</time>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="46.0158099" lon="10.9336501">
+                <ele>299.9</ele>
+                <time>2019-08-07T10:57:41.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+            <trkpt lat="46.0158296" lon="10.9334643">
+                <ele>339.5</ele>
+                <time>2019-08-07T11:00:31.000Z</time>
+                <name>Position 27</name>
+            </trkpt>
+            <trkpt lat="46.0157961" lon="10.9332667">
+                <ele>341.4</ele>
+                <time>2019-08-07T11:00:41.000Z</time>
+                <name>Position 28</name>
+            </trkpt>
+            <trkpt lat="46.0157695" lon="10.9331062">
+                <ele>343.6</ele>
+                <time>2019-08-07T11:01:43.000Z</time>
+                <name>Position 29</name>
+            </trkpt>
+            <trkpt lat="46.0156631" lon="10.9326989">
+                <ele>357.0</ele>
+                <time>2019-08-07T11:02:21.000Z</time>
+                <name>Position 30</name>
+            </trkpt>
+            <trkpt lat="46.0155685" lon="10.9323017">
+                <ele>364.1</ele>
+                <time>2019-08-07T11:02:39.000Z</time>
+                <name>Position 31</name>
+            </trkpt>
+            <trkpt lat="46.015226" lon="10.9319135">
+                <ele>361.6</ele>
+                <time>2019-08-07T11:02:59.000Z</time>
+                <name>Position 32</name>
+            </trkpt>
+            <trkpt lat="46.0150295" lon="10.9317746">
+                <ele>365.8</ele>
+                <time>2019-08-07T11:03:17.000Z</time>
+                <name>Position 33</name>
+            </trkpt>
+            <trkpt lat="46.0145896" lon="10.9315031">
+                <ele>369.6</ele>
+                <time>2019-08-07T11:03:34.000Z</time>
+                <name>Position 34</name>
+            </trkpt>
+            <trkpt lat="46.0143272" lon="10.931371">
+                <ele>375.5</ele>
+                <time>2019-08-07T11:04:20.000Z</time>
+                <name>Position 35</name>
+            </trkpt>
+            <trkpt lat="46.014168" lon="10.9312194">
+                <ele>374.9</ele>
+                <time>2019-08-07T11:04:36.000Z</time>
+                <name>Position 36</name>
+            </trkpt>
+            <trkpt lat="46.0139585" lon="10.9311363">
+                <ele>382.2</ele>
+                <time>2019-08-07T11:04:54.000Z</time>
+                <name>Position 37</name>
+            </trkpt>
+            <trkpt lat="46.0137734" lon="10.9310721">
+                <ele>380.4</ele>
+                <time>2019-08-07T11:05:12.000Z</time>
+                <name>Position 38</name>
+            </trkpt>
+            <trkpt lat="46.0136065" lon="10.9309502">
+                <ele>387.0</ele>
+                <time>2019-08-07T11:06:52.000Z</time>
+                <name>Position 39</name>
+            </trkpt>
+            <trkpt lat="46.0134478" lon="10.9307969">
+                <ele>386.0</ele>
+                <time>2019-08-07T11:07:04.000Z</time>
+                <name>Position 40</name>
+            </trkpt>
+            <trkpt lat="46.0132666" lon="10.9308326">
+                <ele>389.5</ele>
+                <time>2019-08-07T11:07:18.000Z</time>
+                <name>Position 41</name>
+            </trkpt>
+            <trkpt lat="46.0130863" lon="10.9307365">
+                <ele>401.1</ele>
+                <time>2019-08-07T11:07:40.000Z</time>
+                <name>Position 42</name>
+            </trkpt>
+            <trkpt lat="46.0129332" lon="10.9305747">
+                <ele>399.1</ele>
+                <time>2019-08-07T11:09:12.000Z</time>
+                <name>Position 43</name>
+            </trkpt>
+            <trkpt lat="46.0127832" lon="10.9303407">
+                <ele>402.6</ele>
+                <time>2019-08-07T11:10:34.000Z</time>
+                <name>Position 44</name>
+            </trkpt>
+            <trkpt lat="46.0129175" lon="10.9301647">
+                <ele>417.0</ele>
+                <time>2019-08-07T11:14:28.000Z</time>
+                <name>Position 45</name>
+            </trkpt>
+            <trkpt lat="46.0130668" lon="10.93002">
+                <ele>430.2</ele>
+                <time>2019-08-07T11:45:47.000Z</time>
+                <name>Position 46</name>
+            </trkpt>
+            <trkpt lat="46.0130587" lon="10.9300674">
+                <ele>484.7</ele>
+                <time>2019-08-07T12:23:42.000Z</time>
+                <name>Position 47</name>
+            </trkpt>
+            <trkpt lat="46.0132937" lon="10.92982">
+                <ele>532.4</ele>
+                <time>2019-08-07T13:26:38.000Z</time>
+                <name>Position 48</name>
+            </trkpt>
+            <trkpt lat="46.0133308" lon="10.9295621">
+                <ele>543.4</ele>
+                <time>2019-08-07T13:37:24.000Z</time>
+                <name>Position 49</name>
+            </trkpt>
+            <trkpt lat="46.0134012" lon="10.9293157">
+                <ele>564.0</ele>
+                <time>2019-08-07T13:59:16.000Z</time>
+                <name>Position 50</name>
+            </trkpt>
+            <trkpt lat="46.0136033" lon="10.9292952">
+                <ele>560.1</ele>
+                <time>2019-08-07T13:59:32.000Z</time>
+                <name>Position 51</name>
+            </trkpt>
+            <trkpt lat="46.0141568" lon="10.9292849">
+                <ele>566.0</ele>
+                <time>2019-08-07T14:01:04.000Z</time>
+                <name>Position 52</name>
+            </trkpt>
+            <trkpt lat="46.0145576" lon="10.9291349">
+                <ele>568.2</ele>
+                <time>2019-08-07T14:05:38.000Z</time>
+                <name>Position 53</name>
+            </trkpt>
+            <trkpt lat="46.0145478" lon="10.9288651">
+                <ele>566.1</ele>
+                <time>2019-08-07T14:05:54.000Z</time>
+                <name>Position 54</name>
+            </trkpt>
+            <trkpt lat="46.0146235" lon="10.9286225">
+                <ele>574.2</ele>
+                <time>2019-08-07T14:06:20.000Z</time>
+                <name>Position 55</name>
+            </trkpt>
+            <trkpt lat="46.0145965" lon="10.928354">
+                <ele>590.6</ele>
+                <time>2019-08-07T14:07:00.000Z</time>
+                <name>Position 56</name>
+            </trkpt>
+            <trkpt lat="46.0147776" lon="10.9282126">
+                <ele>580.9</ele>
+                <time>2019-08-07T14:07:34.000Z</time>
+                <name>Position 57</name>
+            </trkpt>
+            <trkpt lat="46.0149749" lon="10.9281426">
+                <ele>578.1</ele>
+                <time>2019-08-07T14:07:50.000Z</time>
+                <name>Position 58</name>
+            </trkpt>
+            <trkpt lat="46.0151802" lon="10.9280731">
+                <ele>568.3</ele>
+                <time>2019-08-07T14:08:10.000Z</time>
+                <name>Position 59</name>
+            </trkpt>
+            <trkpt lat="46.0153735" lon="10.9280731">
+                <ele>577.8</ele>
+                <time>2019-08-07T14:08:26.000Z</time>
+                <name>Position 60</name>
+            </trkpt>
+            <trkpt lat="46.0155648" lon="10.9279896">
+                <ele>579.0</ele>
+                <time>2019-08-07T14:08:40.000Z</time>
+                <name>Position 61</name>
+            </trkpt>
+            <trkpt lat="46.015754" lon="10.9279369">
+                <ele>571.3</ele>
+                <time>2019-08-07T14:08:54.000Z</time>
+                <name>Position 62</name>
+            </trkpt>
+            <trkpt lat="46.0159493" lon="10.92792">
+                <ele>590.6</ele>
+                <time>2019-08-07T14:09:18.000Z</time>
+                <name>Position 63</name>
+            </trkpt>
+            <trkpt lat="46.0161135" lon="10.9277789">
+                <ele>591.9</ele>
+                <time>2019-08-07T14:09:40.000Z</time>
+                <name>Position 64</name>
+            </trkpt>
+            <trkpt lat="46.0162704" lon="10.9279119">
+                <ele>579.7</ele>
+                <time>2019-08-07T14:10:18.000Z</time>
+                <name>Position 65</name>
+            </trkpt>
+            <trkpt lat="46.0164243" lon="10.9280839">
+                <ele>579.1</ele>
+                <time>2019-08-07T14:10:40.000Z</time>
+                <name>Position 66</name>
+            </trkpt>
+            <trkpt lat="46.0165482" lon="10.9282782">
+                <ele>566.6</ele>
+                <time>2019-08-07T14:10:58.000Z</time>
+                <name>Position 67</name>
+            </trkpt>
+            <trkpt lat="46.0165796" lon="10.9285463">
+                <ele>576.1</ele>
+                <time>2019-08-07T14:11:24.000Z</time>
+                <name>Position 68</name>
+            </trkpt>
+            <trkpt lat="46.0166996" lon="10.9287516">
+                <ele>569.0</ele>
+                <time>2019-08-07T14:11:58.000Z</time>
+                <name>Position 69</name>
+            </trkpt>
+            <trkpt lat="46.0168819" lon="10.9287435">
+                <ele>560.8</ele>
+                <time>2019-08-07T14:12:28.000Z</time>
+                <name>Position 70</name>
+            </trkpt>
+            <trkpt lat="46.0170793" lon="10.928828">
+                <ele>543.5</ele>
+                <time>2019-08-07T14:13:06.000Z</time>
+                <name>Position 71</name>
+            </trkpt>
+            <trkpt lat="46.0172214" lon="10.9289956">
+                <ele>541.2</ele>
+                <time>2019-08-07T14:13:40.000Z</time>
+                <name>Position 72</name>
+            </trkpt>
+            <trkpt lat="46.0173723" lon="10.929163">
+                <ele>544.5</ele>
+                <time>2019-08-07T14:14:34.000Z</time>
+                <name>Position 73</name>
+            </trkpt>
+            <trkpt lat="46.01732" lon="10.9294309">
+                <ele>526.9</ele>
+                <time>2019-08-07T14:15:02.000Z</time>
+                <name>Position 74</name>
+            </trkpt>
+            <trkpt lat="46.0173047" lon="10.9297005">
+                <ele>513.7</ele>
+                <time>2019-08-07T14:15:38.000Z</time>
+                <name>Position 75</name>
+            </trkpt>
+            <trkpt lat="46.0173211" lon="10.92996">
+                <ele>512.8</ele>
+                <time>2019-08-07T14:16:00.000Z</time>
+                <name>Position 76</name>
+            </trkpt>
+            <trkpt lat="46.0173014" lon="10.930225">
+                <ele>498.6</ele>
+                <time>2019-08-07T14:16:32.000Z</time>
+                <name>Position 77</name>
+            </trkpt>
+            <trkpt lat="46.0172551" lon="10.930497">
+                <ele>486.7</ele>
+                <time>2019-08-07T14:17:20.000Z</time>
+                <name>Position 78</name>
+            </trkpt>
+            <trkpt lat="46.0171545" lon="10.9307135">
+                <ele>476.8</ele>
+                <time>2019-08-07T14:17:46.000Z</time>
+                <name>Position 79</name>
+            </trkpt>
+            <trkpt lat="46.0171122" lon="10.9309882">
+                <ele>458.9</ele>
+                <time>2019-08-07T14:19:08.000Z</time>
+                <name>Position 80</name>
+            </trkpt>
+            <trkpt lat="46.0171196" lon="10.9312567">
+                <ele>464.5</ele>
+                <time>2019-08-07T14:19:38.000Z</time>
+                <name>Position 81</name>
+            </trkpt>
+            <trkpt lat="46.0170121" lon="10.9314991">
+                <ele>461.4</ele>
+                <time>2019-08-07T14:20:04.000Z</time>
+                <name>Position 82</name>
+            </trkpt>
+            <trkpt lat="46.016988" lon="10.9317593">
+                <ele>435.0</ele>
+                <time>2019-08-07T14:20:26.000Z</time>
+                <name>Position 83</name>
+            </trkpt>
+            <trkpt lat="46.0170982" lon="10.9319734">
+                <ele>440.0</ele>
+                <time>2019-08-07T14:20:40.000Z</time>
+                <name>Position 84</name>
+            </trkpt>
+            <trkpt lat="46.0172462" lon="10.9321633">
+                <ele>442.8</ele>
+                <time>2019-08-07T14:20:58.000Z</time>
+                <name>Position 85</name>
+            </trkpt>
+            <trkpt lat="46.0170625" lon="10.9320876">
+                <ele>426.7</ele>
+                <time>2019-08-07T14:21:24.000Z</time>
+                <name>Position 86</name>
+            </trkpt>
+            <trkpt lat="46.0169031" lon="10.9319324">
+                <ele>422.6</ele>
+                <time>2019-08-07T14:21:38.000Z</time>
+                <name>Position 87</name>
+            </trkpt>
+            <trkpt lat="46.0168351" lon="10.9323779">
+                <ele>423.3</ele>
+                <time>2019-08-07T14:22:28.000Z</time>
+                <name>Position 88</name>
+            </trkpt>
+            <trkpt lat="46.0167978" lon="10.9328589">
+                <ele>424.4</ele>
+                <time>2019-08-07T14:22:56.000Z</time>
+                <name>Position 89</name>
+            </trkpt>
+            <trkpt lat="46.016909" lon="10.9337016">
+                <ele>416.1</ele>
+                <time>2019-08-07T14:23:26.000Z</time>
+                <name>Position 90</name>
+            </trkpt>
+            <trkpt lat="46.0177357" lon="10.935507">
+                <ele>405.4</ele>
+                <time>2019-08-07T14:23:56.000Z</time>
+                <name>Position 91</name>
+            </trkpt>
+            <trkpt lat="46.0177989" lon="10.9356738">
+                <ele>403.6</ele>
+                <time>2019-08-07T14:24:10.000Z</time>
+                <name>Position 92</name>
+            </trkpt>
+            <trkpt lat="46.017806" lon="10.9359321">
+                <ele>394.1</ele>
+                <time>2019-08-07T14:24:36.000Z</time>
+                <name>Position 93</name>
+            </trkpt>
+            <trkpt lat="46.0182396" lon="10.9365242">
+                <ele>384.4</ele>
+                <time>2019-08-07T14:25:02.000Z</time>
+                <name>Position 94</name>
+            </trkpt>
+            <trkpt lat="46.0184376" lon="10.9371905">
+                <ele>377.5</ele>
+                <time>2019-08-07T14:25:28.000Z</time>
+                <name>Position 95</name>
+            </trkpt>
+            <trkpt lat="46.0182758" lon="10.9377749">
+                <ele>372.5</ele>
+                <time>2019-08-07T14:25:56.000Z</time>
+                <name>Position 96</name>
+            </trkpt>
+            <trkpt lat="46.0181647" lon="10.9387649">
+                <ele>359.7</ele>
+                <time>2019-08-07T14:26:40.000Z</time>
+                <name>Position 97</name>
+            </trkpt>
+            <trkpt lat="46.0179185" lon="10.939088">
+                <ele>339.5</ele>
+                <time>2019-08-07T14:28:00.000Z</time>
+                <name>Position 98</name>
+            </trkpt>
+            <trkpt lat="46.0178725" lon="10.9394699">
+                <ele>287.6</ele>
+                <time>2019-08-07T14:33:02.000Z</time>
+                <name>Position 99</name>
+            </trkpt>
+            <trkpt lat="46.0178583" lon="10.9398444">
+                <ele>291.8</ele>
+                <time>2019-08-07T14:33:58.000Z</time>
+                <name>Position 100</name>
+            </trkpt>
+            <trkpt lat="46.0181643" lon="10.9408871">
+                <ele>282.7</ele>
+                <time>2019-08-07T14:34:28.000Z</time>
+                <name>Position 101</name>
+            </trkpt>
+            <trkpt lat="46.0178545" lon="10.9419825">
+                <ele>279.0</ele>
+                <time>2019-08-07T14:34:44.000Z</time>
+                <name>Position 102</name>
+            </trkpt>
+            <trkpt lat="46.0170197" lon="10.941912">
+                <ele>273.9</ele>
+                <time>2019-08-07T14:35:02.000Z</time>
+                <name>Position 103</name>
+            </trkpt>
+            <trkpt lat="46.0169976" lon="10.9432719">
+                <ele>272.0</ele>
+                <time>2019-08-07T14:35:26.000Z</time>
+                <name>Position 104</name>
+            </trkpt>
+            <trkpt lat="46.0170256" lon="10.9455639">
+                <ele>273.0</ele>
+                <time>2019-08-07T14:35:44.000Z</time>
+                <name>Position 105</name>
+            </trkpt>
+            <trkpt lat="46.0174197" lon="10.9463945">
+                <ele>277.7</ele>
+                <time>2019-08-07T14:47:20.000Z</time>
+                <name>Position 106</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

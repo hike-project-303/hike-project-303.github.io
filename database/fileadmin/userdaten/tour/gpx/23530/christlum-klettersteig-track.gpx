@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2021-07-02 14:17</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2021-07-02T12:17:48Z</time>
+        <bounds minlat="47.5123341" minlon="11.6965089" maxlat="47.5129218" maxlon="11.6971218"/>
+    </metadata>
+    <trk>
+        <name>2021-07-02 14:17</name>
+        <desc>&lt;p&gt;Startzeit: 14:17 02.07.2021&lt;br/&gt;Zielzeit: 14:46 02.07.2021&lt;br/&gt;Strecke: 0,
+2 km (00:29)&lt;br/&gt;Bewegungszeit: 00:07&lt;br/&gt;Ø-Geschwindigkeit: 0,
+45 km/h&lt;br/&gt;Netto-Geschwindigkeit: 1,
+68 km/h&lt;br/&gt;Max. Geschwindigkeit: 4,
+23 km/h&lt;br/&gt;Minimale Höhe: 940 m&lt;br/&gt;Maximale Höhe: 955 m&lt;br/&gt;Steig-Geschw.: 79,
+7 m/h&lt;br/&gt;Sink-Geschw.: -10,
+4 m/h&lt;br/&gt;Aufstieg: 4 m&lt;br/&gt;Abstieg: -4 m&lt;br/&gt;Steigzeit: 00:03&lt;br/&gt;Sinkzeit: 00:25&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Bergsteigen</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">7</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="47.5129218" lon="11.6971218">
+                <ele>948.5</ele>
+                <time>2021-07-02T12:17:49.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="47.5129091" lon="11.6968472">
+                <ele>940.0</ele>
+                <time>2021-07-02T12:18:57.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="47.5127147" lon="11.6968568">
+                <ele>944.4</ele>
+                <time>2021-07-02T12:19:33.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="47.512509" lon="11.6968547">
+                <ele>944.9</ele>
+                <time>2021-07-02T12:19:53.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="47.5125109" lon="11.6965815">
+                <ele>945.3</ele>
+                <time>2021-07-02T12:21:03.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="47.5123341" lon="11.6965089">
+                <ele>955.6</ele>
+                <time>2021-07-02T12:26:58.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="47.5125353" lon="11.6966098">
+                <ele>949.7</ele>
+                <time>2021-07-02T12:44:17.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="47.5124968" lon="11.6967782">
+                <ele>945.8</ele>
+                <time>2021-07-02T12:45:16.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="47.5125706" lon="11.6968145">
+                <ele>945.0</ele>
+                <time>2021-07-02T12:46:14.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="47.5127608" lon="11.6968149">
+                <ele>944.6</ele>
+                <time>2021-07-02T12:46:32.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="47.5129027" lon="11.697016">
+                <ele>943.6</ele>
+                <time>2021-07-02T12:46:54.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

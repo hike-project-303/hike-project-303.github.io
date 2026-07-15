@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteConverter 2.27.2" version="1.1">
+  <wpt lat="45.8649757" lon="10.8280077">
+    <ele>580.7</ele>
+    <time>2022-10-28T12:48:44.000Z</time>
+    <name>abseilpunkt</name>
+    <sym>Waypoint</sym>
+    <type>Wegpunkt</type>
+    <extensions>
+      <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <om:ext subtype="0" type="ICON">1</om:ext>
+      </om:oruxmapsextensions>
+    </extensions>
+  </wpt>
+  <trk>
+    <name>2022-10-28 10:27</name>
+    <desc>&lt;p&gt;Startzeit: 10:27 28.10.2022&lt;br/&gt;Zielzeit: 15:29 28.10.2022&lt;br/&gt;Strecke: 3,
+4 km (05:01)&lt;br/&gt;Bewegungszeit: 01:14&lt;br/&gt;Ø-Geschwindigkeit: 0,
+68 km/h&lt;br/&gt;Netto-Geschwindigkeit: 2,
+74 km/h&lt;br/&gt;Max. Geschwindigkeit: 10,
+32 km/h&lt;br/&gt;Minimale Höhe: 319 m&lt;br/&gt;Maximale Höhe: 690 m&lt;br/&gt;Steig-Geschw.: 102,
+2 m/h&lt;br/&gt;Sink-Geschw.: -351,
+7 m/h&lt;br/&gt;Aufstieg: 400 m&lt;br/&gt;Abstieg: -384 m&lt;br/&gt;Steigzeit: 03:55&lt;br/&gt;Sinkzeit: 01:05&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+    <type>Berg/ Bergsteigen</type>
+    <trkseg>
+      <trkpt lat="45.8643874" lon="10.8123943">
+        <ele>369.6</ele>
+        <name>Pos 1</name>
+      </trkpt>
+      <trkpt lat="45.864321" lon="10.8126518">
+        <ele>376.3</ele>
+        <name>Pos 2</name>
+      </trkpt>
+      <trkpt lat="45.8643714" lon="10.8129088">
+        <ele>374.6</ele>
+        <name>Pos 3</name>
+      </trkpt>
+      <trkpt lat="45.8643942" lon="10.8131887">
+        <ele>371.4</ele>
+        <name>Pos 4</name>
+      </trkpt>
+      <trkpt lat="45.8644738" lon="10.8134367">
+        <ele>368.2</ele>
+        <name>Pos 5</name>
+      </trkpt>
+      <trkpt lat="45.8645308" lon="10.8137103">
+        <ele>364.8</ele>
+        <name>Pos 6</name>
+      </trkpt>
+      <trkpt lat="45.8645777" lon="10.8139912">
+        <ele>364.0</ele>
+        <name>Pos 7</name>
+      </trkpt>
+      <trkpt lat="45.8646604" lon="10.8142554">
+        <ele>363.9</ele>
+        <name>Pos 8</name>
+      </trkpt>
+      <trkpt lat="45.8647329" lon="10.8145126">
+        <ele>367.1</ele>
+        <name>Pos 9</name>
+      </trkpt>
+      <trkpt lat="45.8647051" lon="10.8147998">
+        <ele>368.1</ele>
+        <name>Pos 10</name>
+      </trkpt>
+      <trkpt lat="45.8646504" lon="10.8150919">
+        <ele>366.8</ele>
+        <name>Pos 11</name>
+      </trkpt>
+      <trkpt lat="45.8645771" lon="10.8153425">
+        <ele>365.8</ele>
+        <name>Pos 12</name>
+      </trkpt>
+      <trkpt lat="45.8644971" lon="10.815587">
+        <ele>365.5</ele>
+        <name>Pos 13</name>
+      </trkpt>
+      <trkpt lat="45.8645172" lon="10.8158558">
+        <ele>365.4</ele>
+        <name>Pos 14</name>
+      </trkpt>
+      <trkpt lat="45.8645801" lon="10.8161189">
+        <ele>364.6</ele>
+        <name>Pos 15</name>
+      </trkpt>
+      <trkpt lat="45.864672" lon="10.8163776">
+        <ele>361.8</ele>
+        <name>Pos 16</name>
+      </trkpt>
+      <trkpt lat="45.8647568" lon="10.8166142">
+        <ele>356.2</ele>
+        <name>Pos 17</name>
+      </trkpt>
+      <trkpt lat="45.864857" lon="10.816848">
+        <ele>355.0</ele>
+        <name>Pos 18</name>
+      </trkpt>
+      <trkpt lat="45.8649142" lon="10.8171195">
+        <ele>353.0</ele>
+        <name>Pos 19</name>
+      </trkpt>
+      <trkpt lat="45.8650153" lon="10.8173739">
+        <ele>352.5</ele>
+        <name>Pos 20</name>
+      </trkpt>
+      <trkpt lat="45.8651073" lon="10.8176126">
+        <ele>348.2</ele>
+        <name>Pos 21</name>
+      </trkpt>
+      <trkpt lat="45.8651666" lon="10.8178705">
+        <ele>345.4</ele>
+        <name>Pos 22</name>
+      </trkpt>
+      <trkpt lat="45.8652205" lon="10.818132">
+        <ele>345.6</ele>
+        <name>Pos 23</name>
+      </trkpt>
+      <trkpt lat="45.8653223" lon="10.8183581">
+        <ele>346.5</ele>
+        <name>Pos 24</name>
+      </trkpt>
+      <trkpt lat="45.8654252" lon="10.8185863">
+        <ele>347.9</ele>
+        <name>Pos 25</name>
+      </trkpt>
+      <trkpt lat="45.8654892" lon="10.8193925">
+        <ele>345.6</ele>
+        <name>Pos 26</name>
+      </trkpt>
+      <trkpt lat="45.865484" lon="10.819669">
+        <ele>340.7</ele>
+        <name>Pos 27</name>
+      </trkpt>
+      <trkpt lat="45.8654302" lon="10.819947">
+        <ele>340.2</ele>
+        <name>Pos 28</name>
+      </trkpt>
+      <trkpt lat="45.86537" lon="10.8202">
+        <ele>338.7</ele>
+        <name>Pos 29</name>
+      </trkpt>
+      <trkpt lat="45.8653314" lon="10.8204546">
+        <ele>338.1</ele>
+        <name>Pos 30</name>
+      </trkpt>
+      <trkpt lat="45.8652517" lon="10.8207345">
+        <ele>336.4</ele>
+        <name>Pos 31</name>
+      </trkpt>
+      <trkpt lat="45.865109" lon="10.8209191">
+        <ele>335.5</ele>
+        <name>Pos 32</name>
+      </trkpt>
+      <trkpt lat="45.8650604" lon="10.8213035">
+        <ele>324.8</ele>
+        <name>Pos 33</name>
+      </trkpt>
+      <trkpt lat="45.864964" lon="10.8219403">
+        <ele>326.9</ele>
+        <name>Pos 34</name>
+      </trkpt>
+      <trkpt lat="45.8650016" lon="10.8222923">
+        <ele>329.4</ele>
+        <name>Pos 35</name>
+      </trkpt>
+      <trkpt lat="45.865156" lon="10.8224143">
+        <ele>331.8</ele>
+        <name>Pos 36</name>
+      </trkpt>
+      <trkpt lat="45.8651624" lon="10.822576">
+        <ele>333.8</ele>
+        <name>Pos 37</name>
+      </trkpt>
+      <trkpt lat="45.8651805" lon="10.8227218">
+        <ele>335.6</ele>
+        <name>Pos 38</name>
+      </trkpt>
+      <trkpt lat="45.8651825" lon="10.8230053">
+        <ele>340.2</ele>
+        <name>Pos 39</name>
+      </trkpt>
+      <trkpt lat="45.8652596" lon="10.8232372">
+        <ele>362.4</ele>
+        <name>Pos 40</name>
+      </trkpt>
+      <trkpt lat="45.8653008" lon="10.8234522">
+        <ele>381.8</ele>
+        <name>Pos 41</name>
+      </trkpt>
+      <trkpt lat="45.8652735" lon="10.8236566">
+        <ele>391.8</ele>
+        <name>Pos 42</name>
+      </trkpt>
+      <trkpt lat="45.8652083" lon="10.8238855">
+        <ele>408.8</ele>
+        <name>Pos 43</name>
+      </trkpt>
+      <trkpt lat="45.865197" lon="10.8244316">
+        <ele>424.0</ele>
+        <name>Pos 44</name>
+      </trkpt>
+      <trkpt lat="45.8652962" lon="10.8248146">
+        <ele>388.0</ele>
+        <name>Pos 45</name>
+      </trkpt>
+      <trkpt lat="45.8652823" lon="10.8250544">
+        <ele>404.0</ele>
+        <name>Pos 46</name>
+      </trkpt>
+      <trkpt lat="45.8646067" lon="10.8257268">
+        <ele>411.0</ele>
+        <name>Pos 47</name>
+      </trkpt>
+      <trkpt lat="45.8644109" lon="10.8259772">
+        <ele>395.0</ele>
+        <name>Pos 48</name>
+      </trkpt>
+      <trkpt lat="45.8645288" lon="10.8260881">
+        <ele>433.7</ele>
+        <name>Pos 49</name>
+      </trkpt>
+      <trkpt lat="45.8646266" lon="10.8262563">
+        <ele>441.1</ele>
+        <name>Pos 50</name>
+      </trkpt>
+      <trkpt lat="45.8646778" lon="10.826334">
+        <ele>441.9</ele>
+        <name>Pos 51</name>
+      </trkpt>
+      <trkpt lat="45.864573" lon="10.8266228">
+        <ele>441.7</ele>
+        <name>Pos 52</name>
+      </trkpt>
+      <trkpt lat="45.8645911" lon="10.8268664">
+        <ele>477.0</ele>
+        <name>Pos 53</name>
+      </trkpt>
+      <trkpt lat="45.8647499" lon="10.8270725">
+        <ele>514.2</ele>
+        <name>Pos 54</name>
+      </trkpt>
+      <trkpt lat="45.8648183" lon="10.827239">
+        <ele>521.6</ele>
+        <name>Pos 55</name>
+      </trkpt>
+      <trkpt lat="45.8647594" lon="10.8278298">
+        <ele>530.1</ele>
+        <name>Pos 56</name>
+      </trkpt>
+      <trkpt lat="45.8648231" lon="10.8279292">
+        <ele>537.5</ele>
+        <name>Pos 57</name>
+      </trkpt>
+      <trkpt lat="45.8648563" lon="10.8280022">
+        <ele>546.9</ele>
+        <name>Pos 58</name>
+      </trkpt>
+      <trkpt lat="45.8650038" lon="10.8280755">
+        <ele>576.6</ele>
+        <name>Pos 59</name>
+      </trkpt>
+      <trkpt lat="45.8649027" lon="10.8285348">
+        <ele>578.2</ele>
+        <name>Pos 60</name>
+      </trkpt>
+      <trkpt lat="45.8650837" lon="10.8285885">
+        <ele>602.8</ele>
+        <name>Pos 61</name>
+      </trkpt>
+      <trkpt lat="45.8652649" lon="10.82855">
+        <ele>620.2</ele>
+        <name>Pos 62</name>
+      </trkpt>
+      <trkpt lat="45.8654455" lon="10.8285483">
+        <ele>640.1</ele>
+        <name>Pos 63</name>
+      </trkpt>
+      <trkpt lat="45.8654803" lon="10.828806">
+        <ele>674.8</ele>
+        <name>Pos 64</name>
+      </trkpt>
+      <trkpt lat="45.8655184" lon="10.8290626">
+        <ele>684.3</ele>
+        <name>Pos 65</name>
+      </trkpt>
+      <trkpt lat="45.8655022" lon="10.8293351">
+        <ele>690.6</ele>
+        <name>Pos 66</name>
+      </trkpt>
+      <trkpt lat="45.8655433" lon="10.8295892">
+        <ele>688.5</ele>
+        <name>Pos 67</name>
+      </trkpt>
+      <trkpt lat="45.8653938" lon="10.8297646">
+        <ele>675.3</ele>
+        <name>Pos 68</name>
+      </trkpt>
+      <trkpt lat="45.8654251" lon="10.8300307">
+        <ele>654.1</ele>
+        <name>Pos 69</name>
+      </trkpt>
+      <trkpt lat="45.865424" lon="10.8302903">
+        <ele>647.3</ele>
+        <name>Pos 70</name>
+      </trkpt>
+      <trkpt lat="45.865376" lon="10.8305425">
+        <ele>634.7</ele>
+        <name>Pos 71</name>
+      </trkpt>
+      <trkpt lat="45.8653612" lon="10.8308002">
+        <ele>627.7</ele>
+        <name>Pos 72</name>
+      </trkpt>
+      <trkpt lat="45.8652257" lon="10.8309971">
+        <ele>616.3</ele>
+        <name>Pos 73</name>
+      </trkpt>
+      <trkpt lat="45.865074" lon="10.8308299">
+        <ele>608.7</ele>
+        <name>Pos 74</name>
+      </trkpt>
+      <trkpt lat="45.8650108" lon="10.8305869">
+        <ele>600.6</ele>
+        <name>Pos 75</name>
+      </trkpt>
+      <trkpt lat="45.8650338" lon="10.8302826">
+        <ele>595.1</ele>
+        <name>Pos 76</name>
+      </trkpt>
+      <trkpt lat="45.8650342" lon="10.8300213">
+        <ele>594.0</ele>
+        <name>Pos 77</name>
+      </trkpt>
+      <trkpt lat="45.8649347" lon="10.8297677">
+        <ele>592.5</ele>
+        <name>Pos 78</name>
+      </trkpt>
+      <trkpt lat="45.8648378" lon="10.8295339">
+        <ele>593.3</ele>
+        <name>Pos 79</name>
+      </trkpt>
+      <trkpt lat="45.8647329" lon="10.8293094">
+        <ele>593.5</ele>
+        <name>Pos 80</name>
+      </trkpt>
+      <trkpt lat="45.8647808" lon="10.8290402">
+        <ele>589.0</ele>
+        <name>Pos 81</name>
+      </trkpt>
+      <trkpt lat="45.8647655" lon="10.8287817">
+        <ele>587.9</ele>
+        <name>Pos 82</name>
+      </trkpt>
+      <trkpt lat="45.8648616" lon="10.8285589">
+        <ele>587.1</ele>
+        <name>Pos 83</name>
+      </trkpt>
+      <trkpt lat="45.8649143" lon="10.8283006">
+        <ele>589.4</ele>
+        <name>Pos 84</name>
+      </trkpt>
+      <trkpt lat="45.8650266" lon="10.8280718">
+        <ele>588.7</ele>
+        <name>Pos 85</name>
+      </trkpt>
+      <trkpt lat="45.8648541" lon="10.8279858">
+        <ele>569.9</ele>
+        <name>Pos 86</name>
+      </trkpt>
+      <trkpt lat="45.8647348" lon="10.827766">
+        <ele>538.4</ele>
+        <name>Pos 87</name>
+      </trkpt>
+      <trkpt lat="45.864757" lon="10.8274765">
+        <ele>533.2</ele>
+        <name>Pos 88</name>
+      </trkpt>
+      <trkpt lat="45.864816" lon="10.8272318">
+        <ele>532.5</ele>
+        <name>Pos 89</name>
+      </trkpt>
+      <trkpt lat="45.8647315" lon="10.8269998">
+        <ele>516.6</ele>
+        <name>Pos 90</name>
+      </trkpt>
+      <trkpt lat="45.8645816" lon="10.8268401">
+        <ele>504.4</ele>
+        <name>Pos 91</name>
+      </trkpt>
+      <trkpt lat="45.8645701" lon="10.8265621">
+        <ele>498.2</ele>
+        <name>Pos 92</name>
+      </trkpt>
+      <trkpt lat="45.8646786" lon="10.8263296">
+        <ele>486.1</ele>
+        <name>Pos 93</name>
+      </trkpt>
+      <trkpt lat="45.8645509" lon="10.8261238">
+        <ele>465.5</ele>
+        <name>Pos 94</name>
+      </trkpt>
+      <trkpt lat="45.8644135" lon="10.825957">
+        <ele>455.0</ele>
+        <name>Pos 95</name>
+      </trkpt>
+      <trkpt lat="45.8645412" lon="10.8257697">
+        <ele>447.9</ele>
+        <name>Pos 96</name>
+      </trkpt>
+      <trkpt lat="45.8647164" lon="10.8256489">
+        <ele>445.7</ele>
+        <name>Pos 97</name>
+      </trkpt>
+      <trkpt lat="45.8648719" lon="10.8254865">
+        <ele>445.9</ele>
+        <name>Pos 98</name>
+      </trkpt>
+      <trkpt lat="45.8650499" lon="10.8254106">
+        <ele>442.7</ele>
+        <name>Pos 99</name>
+      </trkpt>
+      <trkpt lat="45.8652027" lon="10.825254">
+        <ele>442.4</ele>
+        <name>Pos 100</name>
+      </trkpt>
+      <trkpt lat="45.8653095" lon="10.8250236">
+        <ele>438.4</ele>
+        <name>Pos 101</name>
+      </trkpt>
+      <trkpt lat="45.8653048" lon="10.8247472">
+        <ele>434.5</ele>
+        <name>Pos 102</name>
+      </trkpt>
+      <trkpt lat="45.8652239" lon="10.8245078">
+        <ele>430.5</ele>
+        <name>Pos 103</name>
+      </trkpt>
+      <trkpt lat="45.8651803" lon="10.8242442">
+        <ele>425.3</ele>
+        <name>Pos 104</name>
+      </trkpt>
+      <trkpt lat="45.8652037" lon="10.82397">
+        <ele>420.2</ele>
+        <name>Pos 105</name>
+      </trkpt>
+      <trkpt lat="45.8652691" lon="10.8237095">
+        <ele>414.7</ele>
+        <name>Pos 106</name>
+      </trkpt>
+      <trkpt lat="45.8653209" lon="10.8234262">
+        <ele>409.0</ele>
+        <name>Pos 107</name>
+      </trkpt>
+      <trkpt lat="45.8652589" lon="10.8231759">
+        <ele>405.2</ele>
+        <name>Pos 108</name>
+      </trkpt>
+      <trkpt lat="45.8651536" lon="10.8229403">
+        <ele>402.9</ele>
+        <name>Pos 109</name>
+      </trkpt>
+      <trkpt lat="45.8651793" lon="10.8226792">
+        <ele>399.0</ele>
+        <name>Pos 110</name>
+      </trkpt>
+      <trkpt lat="45.8651646" lon="10.8224065">
+        <ele>397.0</ele>
+        <name>Pos 111</name>
+      </trkpt>
+      <trkpt lat="45.8650004" lon="10.8222795">
+        <ele>385.8</ele>
+        <name>Pos 112</name>
+      </trkpt>
+      <trkpt lat="45.8649572" lon="10.8219959">
+        <ele>379.2</ele>
+        <name>Pos 113</name>
+      </trkpt>
+      <trkpt lat="45.8649884" lon="10.821722">
+        <ele>373.4</ele>
+        <name>Pos 114</name>
+      </trkpt>
+      <trkpt lat="45.8650181" lon="10.821461">
+        <ele>370.1</ele>
+        <name>Pos 115</name>
+      </trkpt>
+      <trkpt lat="45.8650882" lon="10.8212121">
+        <ele>362.6</ele>
+        <name>Pos 116</name>
+      </trkpt>
+      <trkpt lat="45.8651529" lon="10.8209504">
+        <ele>364.0</ele>
+        <name>Pos 117</name>
+      </trkpt>
+      <trkpt lat="45.8651842" lon="10.8206931">
+        <ele>353.5</ele>
+        <name>Pos 118</name>
+      </trkpt>
+      <trkpt lat="45.8652695" lon="10.8204422">
+        <ele>352.0</ele>
+        <name>Pos 119</name>
+      </trkpt>
+      <trkpt lat="45.8653061" lon="10.820174">
+        <ele>353.6</ele>
+        <name>Pos 120</name>
+      </trkpt>
+      <trkpt lat="45.8653809" lon="10.8199253">
+        <ele>355.8</ele>
+        <name>Pos 121</name>
+      </trkpt>
+      <trkpt lat="45.8653973" lon="10.8196668">
+        <ele>357.5</ele>
+        <name>Pos 122</name>
+      </trkpt>
+      <trkpt lat="45.8654245" lon="10.81939">
+        <ele>359.3</ele>
+        <name>Pos 123</name>
+      </trkpt>
+      <trkpt lat="45.8653598" lon="10.8186231">
+        <ele>362.6</ele>
+        <name>Pos 124</name>
+      </trkpt>
+      <trkpt lat="45.8653127" lon="10.8183645">
+        <ele>363.4</ele>
+        <name>Pos 125</name>
+      </trkpt>
+      <trkpt lat="45.8652229" lon="10.8181373">
+        <ele>363.4</ele>
+        <name>Pos 126</name>
+      </trkpt>
+      <trkpt lat="45.8651281" lon="10.8179026">
+        <ele>364.1</ele>
+        <name>Pos 127</name>
+      </trkpt>
+      <trkpt lat="45.8650635" lon="10.8176299">
+        <ele>364.4</ele>
+        <name>Pos 128</name>
+      </trkpt>
+      <trkpt lat="45.8649895" lon="10.8173894">
+        <ele>366.9</ele>
+        <name>Pos 129</name>
+      </trkpt>
+      <trkpt lat="45.8649208" lon="10.8171176">
+        <ele>363.3</ele>
+        <name>Pos 130</name>
+      </trkpt>
+      <trkpt lat="45.8648112" lon="10.8168933">
+        <ele>365.3</ele>
+        <name>Pos 131</name>
+      </trkpt>
+      <trkpt lat="45.8647254" lon="10.8166525">
+        <ele>364.2</ele>
+        <name>Pos 132</name>
+      </trkpt>
+      <trkpt lat="45.8646285" lon="10.8164142">
+        <ele>369.2</ele>
+        <name>Pos 133</name>
+      </trkpt>
+      <trkpt lat="45.8645387" lon="10.8161608">
+        <ele>370.6</ele>
+        <name>Pos 134</name>
+      </trkpt>
+      <trkpt lat="45.8644693" lon="10.8159218">
+        <ele>371.3</ele>
+        <name>Pos 135</name>
+      </trkpt>
+      <trkpt lat="45.8644401" lon="10.8156249">
+        <ele>373.1</ele>
+        <name>Pos 136</name>
+      </trkpt>
+      <trkpt lat="45.8644927" lon="10.8153754">
+        <ele>376.8</ele>
+        <name>Pos 137</name>
+      </trkpt>
+      <trkpt lat="45.8645777" lon="10.815138">
+        <ele>378.6</ele>
+        <name>Pos 138</name>
+      </trkpt>
+      <trkpt lat="45.8646301" lon="10.8148795">
+        <ele>379.0</ele>
+        <name>Pos 139</name>
+      </trkpt>
+      <trkpt lat="45.8646159" lon="10.8145931">
+        <ele>379.7</ele>
+        <name>Pos 140</name>
+      </trkpt>
+      <trkpt lat="45.8646166" lon="10.8143307">
+        <ele>379.6</ele>
+        <name>Pos 141</name>
+      </trkpt>
+      <trkpt lat="45.864611" lon="10.8140716">
+        <ele>378.7</ele>
+        <name>Pos 142</name>
+      </trkpt>
+      <trkpt lat="45.8645662" lon="10.8138111">
+        <ele>379.2</ele>
+        <name>Pos 143</name>
+      </trkpt>
+      <trkpt lat="45.8644953" lon="10.813547">
+        <ele>383.1</ele>
+        <name>Pos 144</name>
+      </trkpt>
+      <trkpt lat="45.8644537" lon="10.8132752">
+        <ele>386.8</ele>
+        <name>Pos 145</name>
+      </trkpt>
+      <trkpt lat="45.8644126" lon="10.8130051">
+        <ele>388.6</ele>
+        <name>Pos 146</name>
+      </trkpt>
+      <trkpt lat="45.8644408" lon="10.8126807">
+        <ele>389.7</ele>
+        <name>Pos 147</name>
+      </trkpt>
+      <trkpt lat="45.8644594" lon="10.8124207">
+        <ele>389.7</ele>
+        <name>Pos 148</name>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

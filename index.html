@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gratlinie — Klettersteig &amp; Kletter Atlas</title>
+<link rel="stylesheet" href="lib/leaflet.css" />
+<link rel="stylesheet" href="lib/MarkerCluster.css" />
+<link rel="stylesheet" href="lib/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="app">
+
+  <div id="topbar">
+    <button id="sidebar-toggle" aria-label="Liste ein/ausblenden">☰</button>
+    <div class="brand">
+      <div class="brand-mark">Grat<span>linie</span></div>
+      <div class="brand-sub">Klettersteig &amp; Kletter Atlas</div>
+    </div>
+    <div id="google_translate_element"></div>
+    <div id="stats-strip">
+      <span><b id="stat-total">0</b> Touren</span>
+      <span><b id="stat-visible">0</b> im Blickfeld</span>
+      <span><b id="stat-countries">0</b> Länder</span>
+    </div>
+  </div>
+
+  <div id="sidebar">
+    <div id="search-wrap">
+      <input id="search" type="text" placeholder="Suche nach Name, Gebirge, Region…" autocomplete="off">
+    </div>
+
+    <div id="filters">
+      <div class="filter-row">
+        <div class="filter-label">Typ</div>
+        <button class="chip" data-filter="type" data-value="ferrata">Klettersteig</button>
+        <button class="chip" data-filter="type" data-value="climbing">Klettern</button>
+        <button class="chip" data-filter="type" data-value="climbinggarden">Klettergarten</button>
+      </div>
+      <div class="filter-row">
+        <div class="filter-label">Schwierigkeit</div>
+        <button class="chip easy" data-filter="diff" data-value="leicht">leicht</button>
+        <button class="chip medium" data-filter="diff" data-value="mittel">mittel</button>
+        <button class="chip hard" data-filter="diff" data-value="schwierig">schwierig</button>
+      </div>
+      <div class="filter-row">
+        <div class="filter-label">Land</div>
+        <select id="country-select" class="chip-select">
+          <option value="">Alle Länder</option>
+        </select>
+        <label id="area-toggle">
+          <input type="checkbox" id="area-only" checked>
+          nur Kartenausschnitt
+        </label>
+      </div>
+    </div>
+
+    <div id="list-meta">
+      <span id="list-count">0 Touren</span>
+      <span id="list-sort">sortiert nach Bewertung</span>
+    </div>
+
+    <div id="list"></div>
+  </div>
+
+  <div id="map-wrap">
+    <div id="map"></div>
+
+    <div id="drawer">
+      <button class="drawer-close" id="drawer-close">✕</button>
+      <div id="drawer-scroll"></div>
+    </div>
+  </div>
+
+</div>
+
+<div id="lightbox">
+  <button id="lightbox-close">✕</button>
+  <img id="lightbox-img" src="" alt="">
+  <div id="lightbox-nav">
+    <button id="lightbox-prev">‹</button>
+    <button id="lightbox-next">›</button>
+  </div>
+  <div id="lightbox-count"></div>
+</div>
+
+<script src="lib/leaflet.js"></script>
+<script src="lib/leaflet.markercluster.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+      pageLanguage: 'de',
+      includedLanguages: 'en,it,fr,es,sl,cs,pl,hu,hr,nl',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+      autoDisplay: false
+    }, 'google_translate_element');
+  }
+</script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>

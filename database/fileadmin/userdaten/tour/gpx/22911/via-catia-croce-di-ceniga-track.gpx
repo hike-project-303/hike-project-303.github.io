@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns:gpxtpx1="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" version="1.1" creator="RouteConverter 2.27.2">
+    <metadata>
+        <name>2020-06-22 09:29</name>
+        <link href="https://www.oruxmaps.com">
+            <text>OruxMaps</text>
+        </link>
+        <time>2020-06-22T07:29:34Z</time>
+        <bounds minlat="45.9457899" minlon="10.8923338" maxlat="45.9509863" maxlon="10.9013258"/>
+    </metadata>
+    <wpt lat="45.9461274" lon="10.8969318">
+        <ele>273.2</ele>
+        <time>2020-06-22T07:56:10.000Z</time>
+        <name>0000046</name>
+        <sym>Waypoint</sym>
+        <type>Wegpunkt</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="ICON">1</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+    </wpt>
+    <trk>
+        <name>2020-06-22 09:29</name>
+        <desc>&lt;p&gt;Startzeit: 09:29 22.06.2020&lt;br/&gt;Zielzeit: 13:25 22.06.2020&lt;br/&gt;Strecke: 2,
+6 km (03:55)&lt;br/&gt;Bewegungszeit: 00:52&lt;br/&gt;Ø-Geschwindigkeit: 0,
+66 km/h&lt;br/&gt;Netto-Geschwindigkeit: 2,
+96 km/h&lt;br/&gt;Max. Geschwindigkeit: 7,
+68 km/h&lt;br/&gt;Minimale Höhe: 109 m&lt;br/&gt;Maximale Höhe: 379 m&lt;br/&gt;Steig-Geschw.: 81,
+2 m/h&lt;br/&gt;Sink-Geschw.: -519,
+5 m/h&lt;br/&gt;Aufstieg: 276 m&lt;br/&gt;Abstieg: -270 m&lt;br/&gt;Steigzeit: 03:24&lt;br/&gt;Sinkzeit: 00:31&lt;br/&gt;&lt;/p&gt;&lt;hr align="center" width="480" style="height: 2px; width: 517px"/&gt;</desc>
+        <type>Berg/ Bergsteigen</type>
+        <extensions>
+            <om:oruxmapsextensions xmlns:om="http://www.oruxmaps.com/oruxmapsextensions/1/0" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <om:ext subtype="0" type="TYPE">7</om:ext>
+                <om:ext type="DIFFICULTY">0</om:ext>
+</om:oruxmapsextensions>
+        </extensions>
+        <trkseg>
+            <trkpt lat="45.9505502" lon="10.9011251">
+                <ele>110.0</ele>
+                <time>2020-06-22T07:33:33.000Z</time>
+                <name>Position 1</name>
+            </trkpt>
+            <trkpt lat="45.9506603" lon="10.9003772">
+                <ele>109.3</ele>
+                <time>2020-06-22T07:33:49.000Z</time>
+                <name>Position 2</name>
+            </trkpt>
+            <trkpt lat="45.9508995" lon="10.8999095">
+                <ele>109.1</ele>
+                <time>2020-06-22T07:34:03.000Z</time>
+                <name>Position 3</name>
+            </trkpt>
+            <trkpt lat="45.9505323" lon="10.898624">
+                <ele>110.0</ele>
+                <time>2020-06-22T07:34:19.000Z</time>
+                <name>Position 4</name>
+            </trkpt>
+            <trkpt lat="45.9500286" lon="10.8981829">
+                <ele>109.7</ele>
+                <time>2020-06-22T07:34:35.000Z</time>
+                <name>Position 5</name>
+            </trkpt>
+            <trkpt lat="45.9500033" lon="10.8980386">
+                <ele>109.7</ele>
+                <time>2020-06-22T07:34:49.000Z</time>
+                <name>Position 6</name>
+            </trkpt>
+            <trkpt lat="45.9499396" lon="10.8977779">
+                <ele>113.3</ele>
+                <time>2020-06-22T07:35:09.000Z</time>
+                <name>Position 7</name>
+            </trkpt>
+            <trkpt lat="45.9498212" lon="10.8975734">
+                <ele>119.6</ele>
+                <time>2020-06-22T07:35:37.000Z</time>
+                <name>Position 8</name>
+            </trkpt>
+            <trkpt lat="45.9496477" lon="10.8976637">
+                <ele>124.6</ele>
+                <time>2020-06-22T07:36:01.000Z</time>
+                <name>Position 9</name>
+            </trkpt>
+            <trkpt lat="45.9495312" lon="10.8978738">
+                <ele>129.9</ele>
+                <time>2020-06-22T07:36:23.000Z</time>
+                <name>Position 10</name>
+            </trkpt>
+            <trkpt lat="45.9494123" lon="10.8980803">
+                <ele>134.7</ele>
+                <time>2020-06-22T07:36:47.000Z</time>
+                <name>Position 11</name>
+            </trkpt>
+            <trkpt lat="45.9492228" lon="10.8980593">
+                <ele>140.7</ele>
+                <time>2020-06-22T07:37:11.000Z</time>
+                <name>Position 12</name>
+            </trkpt>
+            <trkpt lat="45.9490341" lon="10.8980906">
+                <ele>143.9</ele>
+                <time>2020-06-22T07:37:33.000Z</time>
+                <name>Position 13</name>
+            </trkpt>
+            <trkpt lat="45.9488501" lon="10.8981758">
+                <ele>143.2</ele>
+                <time>2020-06-22T07:37:51.000Z</time>
+                <name>Position 14</name>
+            </trkpt>
+            <trkpt lat="45.9486595" lon="10.8982519">
+                <ele>144.4</ele>
+                <time>2020-06-22T07:38:11.000Z</time>
+                <name>Position 15</name>
+            </trkpt>
+            <trkpt lat="45.948479" lon="10.8983726">
+                <ele>147.2</ele>
+                <time>2020-06-22T07:38:31.000Z</time>
+                <name>Position 16</name>
+            </trkpt>
+            <trkpt lat="45.9483079" lon="10.8984725">
+                <ele>149.8</ele>
+                <time>2020-06-22T07:38:49.000Z</time>
+                <name>Position 17</name>
+            </trkpt>
+            <trkpt lat="45.9481753" lon="10.8986726">
+                <ele>151.0</ele>
+                <time>2020-06-22T07:39:11.000Z</time>
+                <name>Position 18</name>
+            </trkpt>
+            <trkpt lat="45.9481191" lon="10.8989388">
+                <ele>155.2</ele>
+                <time>2020-06-22T07:39:33.000Z</time>
+                <name>Position 19</name>
+            </trkpt>
+            <trkpt lat="45.9479358" lon="10.8989476">
+                <ele>162.1</ele>
+                <time>2020-06-22T07:40:07.000Z</time>
+                <name>Position 20</name>
+            </trkpt>
+            <trkpt lat="45.9477594" lon="10.8990648">
+                <ele>170.1</ele>
+                <time>2020-06-22T07:41:07.000Z</time>
+                <name>Position 21</name>
+            </trkpt>
+            <trkpt lat="45.9475881" lon="10.8989764">
+                <ele>172.8</ele>
+                <time>2020-06-22T07:41:37.000Z</time>
+                <name>Position 22</name>
+            </trkpt>
+            <trkpt lat="45.9474606" lon="10.8987832">
+                <ele>178.2</ele>
+                <time>2020-06-22T07:42:13.000Z</time>
+                <name>Position 23</name>
+            </trkpt>
+            <trkpt lat="45.9473668" lon="10.8985505">
+                <ele>185.1</ele>
+                <time>2020-06-22T07:42:49.000Z</time>
+                <name>Position 24</name>
+            </trkpt>
+            <trkpt lat="45.9473722" lon="10.8982853">
+                <ele>190.4</ele>
+                <time>2020-06-22T07:43:25.000Z</time>
+                <name>Position 25</name>
+            </trkpt>
+            <trkpt lat="45.9474225" lon="10.8980209">
+                <ele>197.6</ele>
+                <time>2020-06-22T07:43:59.000Z</time>
+                <name>Position 26</name>
+            </trkpt>
+            <trkpt lat="45.9474359" lon="10.8977565">
+                <ele>203.8</ele>
+                <time>2020-06-22T07:44:51.000Z</time>
+                <name>Position 27</name>
+            </trkpt>
+            <trkpt lat="45.9475859" lon="10.8975927">
+                <ele>208.6</ele>
+                <time>2020-06-22T07:45:15.000Z</time>
+                <name>Position 28</name>
+            </trkpt>
+            <trkpt lat="45.9474036" lon="10.8975851">
+                <ele>218.0</ele>
+                <time>2020-06-22T07:45:57.000Z</time>
+                <name>Position 29</name>
+            </trkpt>
+            <trkpt lat="45.9472171" lon="10.8975593">
+                <ele>228.1</ele>
+                <time>2020-06-22T07:46:46.000Z</time>
+                <name>Position 30</name>
+            </trkpt>
+            <trkpt lat="45.9471098" lon="10.8973477">
+                <ele>234.9</ele>
+                <time>2020-06-22T07:47:56.000Z</time>
+                <name>Position 31</name>
+            </trkpt>
+            <trkpt lat="45.9469969" lon="10.8971306">
+                <ele>244.4</ele>
+                <time>2020-06-22T07:49:14.000Z</time>
+                <name>Position 32</name>
+            </trkpt>
+            <trkpt lat="45.9468193" lon="10.8970837">
+                <ele>258.4</ele>
+                <time>2020-06-22T07:50:36.000Z</time>
+                <name>Position 33</name>
+            </trkpt>
+            <trkpt lat="45.9466372" lon="10.8970764">
+                <ele>264.6</ele>
+                <time>2020-06-22T07:54:26.000Z</time>
+                <name>0000045</name>
+            </trkpt>
+            <trkpt lat="45.9464694" lon="10.8969757">
+                <ele>273.9</ele>
+                <time>2020-06-22T07:56:20.000Z</time>
+                <name>Position 35</name>
+            </trkpt>
+            <trkpt lat="45.9463236" lon="10.8969228">
+                <ele>293.0</ele>
+                <time>2020-06-22T08:22:41.000Z</time>
+                <name>Position 36</name>
+            </trkpt>
+            <trkpt lat="45.946138" lon="10.8968752">
+                <ele>304.1</ele>
+                <time>2020-06-22T08:46:24.000Z</time>
+                <name>Position 37</name>
+            </trkpt>
+            <trkpt lat="45.9461381" lon="10.8966686">
+                <ele>328.1</ele>
+                <time>2020-06-22T09:41:48.000Z</time>
+                <name>Position 38</name>
+            </trkpt>
+            <trkpt lat="45.9462527" lon="10.8965233">
+                <ele>367.6</ele>
+                <time>2020-06-22T10:39:43.000Z</time>
+                <name>Position 39</name>
+            </trkpt>
+            <trkpt lat="45.9461537" lon="10.8962849">
+                <ele>377.4</ele>
+                <time>2020-06-22T10:52:11.000Z</time>
+                <name>Position 40</name>
+            </trkpt>
+            <trkpt lat="45.9460706" lon="10.8960474">
+                <ele>377.0</ele>
+                <time>2020-06-22T10:52:57.000Z</time>
+                <name>Position 41</name>
+            </trkpt>
+            <trkpt lat="45.9459668" lon="10.8958171">
+                <ele>379.1</ele>
+                <time>2020-06-22T10:53:27.000Z</time>
+                <name>Position 42</name>
+            </trkpt>
+            <trkpt lat="45.9459087" lon="10.8955689">
+                <ele>378.8</ele>
+                <time>2020-06-22T10:53:57.000Z</time>
+                <name>Position 43</name>
+            </trkpt>
+            <trkpt lat="45.9458295" lon="10.89531">
+                <ele>378.0</ele>
+                <time>2020-06-22T10:54:23.000Z</time>
+                <name>Position 44</name>
+            </trkpt>
+            <trkpt lat="45.9457899" lon="10.8950524">
+                <ele>376.3</ele>
+                <time>2020-06-22T10:54:45.000Z</time>
+                <name>Position 45</name>
+            </trkpt>
+            <trkpt lat="45.945891" lon="10.8948195">
+                <ele>378.8</ele>
+                <time>2020-06-22T10:55:27.000Z</time>
+                <name>Position 46</name>
+            </trkpt>
+            <trkpt lat="45.9460288" lon="10.8946465">
+                <ele>373.2</ele>
+                <time>2020-06-22T10:56:23.000Z</time>
+                <name>Position 47</name>
+            </trkpt>
+            <trkpt lat="45.9461236" lon="10.8944133">
+                <ele>364.1</ele>
+                <time>2020-06-22T10:57:09.000Z</time>
+                <name>Position 48</name>
+            </trkpt>
+            <trkpt lat="45.9463102" lon="10.8944258">
+                <ele>347.5</ele>
+                <time>2020-06-22T10:58:43.000Z</time>
+                <name>Position 49</name>
+            </trkpt>
+            <trkpt lat="45.9464901" lon="10.8943871">
+                <ele>330.9</ele>
+                <time>2020-06-22T11:00:07.000Z</time>
+                <name>Position 50</name>
+            </trkpt>
+            <trkpt lat="45.9464994" lon="10.8941038">
+                <ele>330.2</ele>
+                <time>2020-06-22T11:00:31.000Z</time>
+                <name>Position 51</name>
+            </trkpt>
+            <trkpt lat="45.9464401" lon="10.8938363">
+                <ele>326.6</ele>
+                <time>2020-06-22T11:00:51.000Z</time>
+                <name>Position 52</name>
+            </trkpt>
+            <trkpt lat="45.9463673" lon="10.8935639">
+                <ele>325.4</ele>
+                <time>2020-06-22T11:01:11.000Z</time>
+                <name>Position 53</name>
+            </trkpt>
+            <trkpt lat="45.9463127" lon="10.8932943">
+                <ele>321.4</ele>
+                <time>2020-06-22T11:01:35.000Z</time>
+                <name>Position 54</name>
+            </trkpt>
+            <trkpt lat="45.946501" lon="10.8932722">
+                <ele>308.2</ele>
+                <time>2020-06-22T11:03:03.000Z</time>
+                <name>Position 55</name>
+            </trkpt>
+            <trkpt lat="45.9466152" lon="10.8934981">
+                <ele>302.6</ele>
+                <time>2020-06-22T11:03:36.000Z</time>
+                <name>Position 56</name>
+            </trkpt>
+            <trkpt lat="45.9467447" lon="10.8936977">
+                <ele>299.1</ele>
+                <time>2020-06-22T11:04:02.000Z</time>
+                <name>Position 57</name>
+            </trkpt>
+            <trkpt lat="45.9468931" lon="10.8938503">
+                <ele>296.3</ele>
+                <time>2020-06-22T11:04:34.000Z</time>
+                <name>Position 58</name>
+            </trkpt>
+            <trkpt lat="45.9469342" lon="10.8935831">
+                <ele>268.2</ele>
+                <time>2020-06-22T11:06:38.000Z</time>
+                <name>Position 59</name>
+            </trkpt>
+            <trkpt lat="45.9469052" lon="10.8933111">
+                <ele>257.6</ele>
+                <time>2020-06-22T11:07:18.000Z</time>
+                <name>Position 60</name>
+            </trkpt>
+            <trkpt lat="45.9468808" lon="10.893037">
+                <ele>251.7</ele>
+                <time>2020-06-22T11:07:46.000Z</time>
+                <name>Position 61</name>
+            </trkpt>
+            <trkpt lat="45.9468997" lon="10.8927749">
+                <ele>239.2</ele>
+                <time>2020-06-22T11:08:30.000Z</time>
+                <name>Position 62</name>
+            </trkpt>
+            <trkpt lat="45.9470874" lon="10.8928662">
+                <ele>232.6</ele>
+                <time>2020-06-22T11:09:02.000Z</time>
+                <name>Position 63</name>
+            </trkpt>
+            <trkpt lat="45.9472676" lon="10.8928625">
+                <ele>225.3</ele>
+                <time>2020-06-22T11:09:32.000Z</time>
+                <name>Position 64</name>
+            </trkpt>
+            <trkpt lat="45.9472169" lon="10.8925947">
+                <ele>218.4</ele>
+                <time>2020-06-22T11:09:58.000Z</time>
+                <name>Position 65</name>
+            </trkpt>
+            <trkpt lat="45.9471731" lon="10.8923338">
+                <ele>211.3</ele>
+                <time>2020-06-22T11:10:36.000Z</time>
+                <name>Position 66</name>
+            </trkpt>
+            <trkpt lat="45.9473373" lon="10.8924575">
+                <ele>209.8</ele>
+                <time>2020-06-22T11:10:56.000Z</time>
+                <name>Position 67</name>
+            </trkpt>
+            <trkpt lat="45.9474807" lon="10.8926146">
+                <ele>208.7</ele>
+                <time>2020-06-22T11:11:12.000Z</time>
+                <name>Position 68</name>
+            </trkpt>
+            <trkpt lat="45.9476525" lon="10.8927719">
+                <ele>208.0</ele>
+                <time>2020-06-22T11:11:26.000Z</time>
+                <name>Position 69</name>
+            </trkpt>
+            <trkpt lat="45.9477406" lon="10.8930142">
+                <ele>208.2</ele>
+                <time>2020-06-22T11:11:44.000Z</time>
+                <name>Position 70</name>
+            </trkpt>
+            <trkpt lat="45.9478119" lon="10.8932823">
+                <ele>208.5</ele>
+                <time>2020-06-22T11:12:02.000Z</time>
+                <name>Position 71</name>
+            </trkpt>
+            <trkpt lat="45.9479522" lon="10.8934893">
+                <ele>209.0</ele>
+                <time>2020-06-22T11:12:28.000Z</time>
+                <name>Position 72</name>
+            </trkpt>
+            <trkpt lat="45.9481316" lon="10.8936137">
+                <ele>209.2</ele>
+                <time>2020-06-22T11:12:42.000Z</time>
+                <name>Position 73</name>
+            </trkpt>
+            <trkpt lat="45.9482679" lon="10.893796">
+                <ele>208.0</ele>
+                <time>2020-06-22T11:12:58.000Z</time>
+                <name>Position 74</name>
+            </trkpt>
+            <trkpt lat="45.9484242" lon="10.8939389">
+                <ele>208.8</ele>
+                <time>2020-06-22T11:13:12.000Z</time>
+                <name>Position 75</name>
+            </trkpt>
+            <trkpt lat="45.9485591" lon="10.8941184">
+                <ele>208.5</ele>
+                <time>2020-06-22T11:13:28.000Z</time>
+                <name>Position 76</name>
+            </trkpt>
+            <trkpt lat="45.9486882" lon="10.894308">
+                <ele>208.8</ele>
+                <time>2020-06-22T11:13:44.000Z</time>
+                <name>Position 77</name>
+            </trkpt>
+            <trkpt lat="45.9488169" lon="10.89453">
+                <ele>209.7</ele>
+                <time>2020-06-22T11:14:00.000Z</time>
+                <name>Position 78</name>
+            </trkpt>
+            <trkpt lat="45.9489249" lon="10.8947635">
+                <ele>208.1</ele>
+                <time>2020-06-22T11:14:16.000Z</time>
+                <name>Position 79</name>
+            </trkpt>
+            <trkpt lat="45.9490242" lon="10.8950102">
+                <ele>207.9</ele>
+                <time>2020-06-22T11:14:30.000Z</time>
+                <name>Position 80</name>
+            </trkpt>
+            <trkpt lat="45.9490456" lon="10.8952893">
+                <ele>205.8</ele>
+                <time>2020-06-22T11:14:44.000Z</time>
+                <name>Position 81</name>
+            </trkpt>
+            <trkpt lat="45.9490486" lon="10.8955747">
+                <ele>203.3</ele>
+                <time>2020-06-22T11:15:02.000Z</time>
+                <name>Position 82</name>
+            </trkpt>
+            <trkpt lat="45.9491087" lon="10.8958384">
+                <ele>198.3</ele>
+                <time>2020-06-22T11:15:20.000Z</time>
+                <name>Position 83</name>
+            </trkpt>
+            <trkpt lat="45.9492248" lon="10.896038">
+                <ele>193.4</ele>
+                <time>2020-06-22T11:15:38.000Z</time>
+                <name>Position 84</name>
+            </trkpt>
+            <trkpt lat="45.9493278" lon="10.8962831">
+                <ele>188.1</ele>
+                <time>2020-06-22T11:16:00.000Z</time>
+                <name>Position 85</name>
+            </trkpt>
+            <trkpt lat="45.9494133" lon="10.8965445">
+                <ele>181.9</ele>
+                <time>2020-06-22T11:16:18.000Z</time>
+                <name>Position 86</name>
+            </trkpt>
+            <trkpt lat="45.9494361" lon="10.8968242">
+                <ele>177.4</ele>
+                <time>2020-06-22T11:16:36.000Z</time>
+                <name>Position 87</name>
+            </trkpt>
+            <trkpt lat="45.9493988" lon="10.8971009">
+                <ele>172.8</ele>
+                <time>2020-06-22T11:16:58.000Z</time>
+                <name>Position 88</name>
+            </trkpt>
+            <trkpt lat="45.9493178" lon="10.8973346">
+                <ele>166.4</ele>
+                <time>2020-06-22T11:17:24.000Z</time>
+                <name>Position 89</name>
+            </trkpt>
+            <trkpt lat="45.9492963" lon="10.8975915">
+                <ele>160.4</ele>
+                <time>2020-06-22T11:17:44.000Z</time>
+                <name>Position 90</name>
+            </trkpt>
+            <trkpt lat="45.9493249" lon="10.8978725">
+                <ele>155.0</ele>
+                <time>2020-06-22T11:18:04.000Z</time>
+                <name>Position 91</name>
+            </trkpt>
+            <trkpt lat="45.9494676" lon="10.898036">
+                <ele>146.9</ele>
+                <time>2020-06-22T11:18:42.000Z</time>
+                <name>Position 92</name>
+            </trkpt>
+            <trkpt lat="45.9495808" lon="10.8978275">
+                <ele>141.6</ele>
+                <time>2020-06-22T11:19:02.000Z</time>
+                <name>Position 93</name>
+            </trkpt>
+            <trkpt lat="45.94974" lon="10.8976973">
+                <ele>137.7</ele>
+                <time>2020-06-22T11:19:16.000Z</time>
+                <name>Position 94</name>
+            </trkpt>
+            <trkpt lat="45.9499094" lon="10.8977965">
+                <ele>130.9</ele>
+                <time>2020-06-22T11:19:46.000Z</time>
+                <name>Position 95</name>
+            </trkpt>
+            <trkpt lat="45.9499763" lon="10.8980548">
+                <ele>127.5</ele>
+                <time>2020-06-22T11:20:02.000Z</time>
+                <name>Position 96</name>
+            </trkpt>
+            <trkpt lat="45.9499936" lon="10.8982584">
+                <ele>125.5</ele>
+                <time>2020-06-22T11:20:18.000Z</time>
+                <name>Position 97</name>
+            </trkpt>
+            <trkpt lat="45.950505" lon="10.8986207">
+                <ele>124.6</ele>
+                <time>2020-06-22T11:20:40.000Z</time>
+                <name>Position 98</name>
+            </trkpt>
+            <trkpt lat="45.9508652" lon="10.8998555">
+                <ele>122.6</ele>
+                <time>2020-06-22T11:20:54.000Z</time>
+                <name>Position 99</name>
+            </trkpt>
+            <trkpt lat="45.9507351" lon="10.9002591">
+                <ele>123.2</ele>
+                <time>2020-06-22T11:21:10.000Z</time>
+                <name>Position 100</name>
+            </trkpt>
+            <trkpt lat="45.9505599" lon="10.901157">
+                <ele>123.7</ele>
+                <time>2020-06-22T11:21:26.000Z</time>
+                <name>Position 101</name>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
