@@ -459,6 +459,86 @@ function initUI(){
   });
 }
 
+/* ---------------- Google Translate banner shift ---------------- */
+(function () {
+  let lastState = null;
+
+  function getBannerHeight() {
+    const banner = document.querySelector(
+      "iframe.goog-te-banner-frame, iframe[name='google_translate_element']"
+    );
+
+    if (banner) {
+      const h =
+        banner.offsetHeight ||
+        banner.clientHeight ||
+        banner.getBoundingClientRect().height;
+
+      if (h > 0) return h;
+    }
+
+    // Google Translate default banner height
+    return 40;
+  }
+
+  function isTranslated() {
+    return document.documentElement.classList.contains("translated-ltr") ||
+           document.documentElement.classList.contains("translated-rtl");
+  }
+
+  function updateTranslateOffset() {
+    const translated = isTranslated();
+
+    if (translated) {
+      const h = getBannerHeight();
+
+      document.body.classList.add("translate-shift");
+
+      document.body.style.setProperty(
+        "--translate-bar-height",
+        `${h}px`
+      );
+
+      // same behavior as Google Translate original inline style
+      document.body.style.position = "relative";
+      document.body.style.top = `${h}px`;
+      document.body.style.minHeight = "100%";
+
+    } else {
+      document.body.classList.remove("translate-shift");
+
+      document.body.style.removeProperty("--translate-bar-height");
+      document.body.style.removeProperty("top");
+      document.body.style.removeProperty("position");
+      document.body.style.removeProperty("min-height");
+    }
+  }
+
+
+  const observer = new MutationObserver(() => {
+    requestAnimationFrame(updateTranslateOffset);
+  });
+
+  // watch only Google Translate class changes
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["class"]
+  });
+
+
+  window.addEventListener("load", () => {
+    updateTranslateOffset();
+
+    // Google iframe appears late
+    setTimeout(updateTranslateOffset, 500);
+    setTimeout(updateTranslateOffset, 1500);
+    setTimeout(updateTranslateOffset, 3000);
+  });
+
+  window.addEventListener("resize", updateTranslateOffset);
+
+})();
+
 /* ---------------- Init ---------------- */
 document.addEventListener('DOMContentLoaded', () => {
   initMap();

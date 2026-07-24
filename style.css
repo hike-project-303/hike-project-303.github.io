@@ -359,3 +359,12 @@ select.chip-select{
 }
 
 .hidden{display:none!important;}
+
+:root {
+  --translate-bar-height: 0px;
+}
+
+body.translate-shift {
+  --translate-bar-height: 50px;
+  padding-top: var(--translate-bar-height);
+}
